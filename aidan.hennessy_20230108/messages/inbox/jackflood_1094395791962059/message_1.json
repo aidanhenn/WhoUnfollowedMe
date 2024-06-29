@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Jack Flood"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jack Flood",
+      "timestamp_ms": 1673121490436,
+      "content": "Set big goals and go after it",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Aidan Hennessy"
+        }
+      ]
+    },
+    {
+      "sender_name": "Jack Flood",
+      "timestamp_ms": 1673121471937,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1673121339787,
+      "content": "Hey Jack, thanks for responding. I just wanted to let you know I\u00e2\u0080\u0099m a DIII guy just like you were and you\u00e2\u0080\u0099re a big inspiration \u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bc",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Jack Flood"
+        }
+      ]
+    }
+  ],
+  "title": "Jack Flood",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jackflood_1094395791962059",
+  "magic_words": [
+    
+  ]
+}

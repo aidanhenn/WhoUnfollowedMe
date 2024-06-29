@@ -1,0 +1,58 @@
+{
+  "ig_custom_audiences_all_types": [
+    {
+      "advertiser_name": "eBay.co.uk",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Instagram",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Venmo",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "JobsRadar.com",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Bidding Team",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "SeatGeek",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Robinhood",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Hong Kong Zoom Interactive Network Marketing Technology Limited",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    },
+    {
+      "advertiser_name": "Wesal Awca 1 - bm Audiences",
+      "has_data_file_custom_audience": true,
+      "has_remarketing_custom_audience": false,
+      "has_in_person_store_visit": false
+    }
+  ]
+}

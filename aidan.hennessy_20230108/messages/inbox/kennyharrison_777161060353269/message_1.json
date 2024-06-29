@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Kenny Harrison"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1645494284605,
+      "videos": [
+        {
+          "uri": "messages/inbox/kennyharrison_777161060353269/videos/274277463_495100208998009_8965027539448445547_n_246111764386757.mp4",
+          "creation_timestamp": 1645494285
+        }
+      ]
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1645494264983,
+      "content": "Hey Kenny, I jumped a PB on Saturday of 13.24m and I\u00e2\u0080\u0099m trying to break 14m this season. Any chance you could give my some advice?"
+    }
+  ],
+  "title": "Kenny Harrison",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/kennyharrison_777161060353269",
+  "magic_words": [
+    
+  ]
+}

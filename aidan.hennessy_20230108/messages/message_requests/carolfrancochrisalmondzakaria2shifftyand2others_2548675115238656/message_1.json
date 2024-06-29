@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Carol Franco"
+    },
+    {
+      "name": "Chris Almond"
+    },
+    {
+      "name": "Zakaria2shiffty\u00f0\u009f\u008e\u00b8\u00e3\u0080\u00bd\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Charles"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1584478292095,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://18online.site/mxvGQTX3",
+        "share_text": "Visit the page to see this album : Wanna see my private video? JUST CLICK ;)"
+      }
+    }
+  ],
+  "title": "Carol Franco, Chris Almond, Zakaria2shiffty\u00f0\u009f\u008e\u00b8\u00e3\u0080\u00bd\u00ef\u00b8\u008f and 2 others",
+  "is_still_participant": true,
+  "thread_type": "PendingGroup",
+  "thread_path": "message_requests/carolfrancochrisalmondzakaria2shifftyand2others_2548675115238656",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

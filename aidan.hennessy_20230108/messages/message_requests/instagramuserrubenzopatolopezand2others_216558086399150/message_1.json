@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Ruben Zopato"
+    },
+    {
+      "name": "lopez??"
+    },
+    {
+      "name": "~Sky~"
+    },
+    {
+      "name": "alycud"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1583375801442,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://greatsxx65.pw/XxpXPQ2d",
+        "share_text": "Wanna more? 18+"
+      }
+    }
+  ],
+  "title": "Instagram User, Ruben Zopato, lopez?? and 2 others",
+  "is_still_participant": true,
+  "thread_type": "PendingGroup",
+  "thread_path": "message_requests/instagramuserrubenzopatolopezand2others_216558086399150",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

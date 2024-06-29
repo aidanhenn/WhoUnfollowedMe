@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Brianna"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brianna",
+      "timestamp_ms": 1592958491305,
+      "content": "Lol I\u00e2\u0080\u0099d do that"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1592958162541,
+      "content": "Nvm I just had to do the orientation haha"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1592877032614,
+      "content": "I still have no idea what I need for my room and my parents keep asking me so I hope they send out an email or something"
+    },
+    {
+      "sender_name": "Brianna",
+      "timestamp_ms": 1592868156604,
+      "content": "That\u00e2\u0080\u0099s crazy! I need to check my email I haven in a whileee. I feel that my siblings are the same way. That\u00e2\u0080\u0099s good, sounds fun"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1592847172461,
+      "content": "Yeah we\u00e2\u0080\u0099re close but he can get annoying sometimes haha we\u00e2\u0080\u0099re both doing track at eastern"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1592847119726,
+      "content": "I just got the mail from them and it looks like half of the students are gonna be online and the other half are in person and we switch off. I don\u00e2\u0080\u0099t really get it bc I doubt many people will follow the rules outside of class so whats the point haha"
+    },
+    {
+      "sender_name": "Brianna",
+      "timestamp_ms": 1592839451598,
+      "content": "Yeah haha I got lucky, and that\u00e2\u0080\u0099s good it\u00e2\u0080\u0099s going to be interesting if we have to do any online learning. That\u00e2\u0080\u0099s crazy! You two I\u00e2\u0080\u0099m assuming are close?"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1592839398781,
+      "content": "My twins going to Eastern also"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1592839389295,
+      "content": "Damn I didn\u00e2\u0080\u0099t know Coventry was that close and yeah I\u00e2\u0080\u0099m boarding"
+    },
+    {
+      "sender_name": "Brianna",
+      "timestamp_ms": 1592774974770,
+      "content": "Yeah for sure, and I\u00e2\u0080\u0099m 5 minute from campus so luckily I get to commute. I assume your boarding?"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1592774755149,
+      "content": "Oh wow yeah I\u00e2\u0080\u0099ve been to Coventry a few times and ig it\u00e2\u0080\u0099s like granby then bc we\u00e2\u0080\u0099re just know for our farms haha ... where u rooming at eastern?"
+    },
+    {
+      "sender_name": "Brianna",
+      "timestamp_ms": 1592698093001,
+      "content": "Coventry it\u00e2\u0080\u0099s a cow town for sure!! i think I\u00e2\u0080\u0099ve gone to Granby a couple times for games, it\u00e2\u0080\u0099s pretty nice"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1592694022684,
+      "content": "Granby CT, it\u00e2\u0080\u0099s a small town up north. hbu?"
+    },
+    {
+      "sender_name": "Brianna",
+      "timestamp_ms": 1592670893978,
+      "content": "What high school did you go to?"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1592251756398,
+      "content": "Yup that\u00e2\u0080\u0099s me :)"
+    },
+    {
+      "sender_name": "Brianna",
+      "timestamp_ms": 1592092659202,
+      "content": "Hey my name is bri! I saw you were going to eastern for computer science too this fall"
+    }
+  ],
+  "title": "Brianna",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/brianna_558930265500430",
+  "magic_words": [
+    
+  ]
+}

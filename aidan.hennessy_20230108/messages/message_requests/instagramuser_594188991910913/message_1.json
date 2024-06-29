@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1638386046185,
+      "content": "\u00f0\u009f\u009a\u00a8THIS PROJECT JUST STEALTH LAUNCHED!\u00f0\u009f\u009a\u00a8\n\nTrust Wallet just announced their partnership with @flappysacks and more big names will be partnering this week!\n\nThe utility is insane and they give 1% of all buys and sells of their $20m market cap coin split to everyone that holds their Flappy Sack NFTs!\n\nDiscord is over 30,000 members and growing! LFG! \u00f0\u009f\u009a\u0080\n\nWatch the video and join the discord!"
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1638386044087
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_594188991910913",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Ernst Eide"
+    },
+    {
+      "name": "Gavin Tarver/LSR"
+    },
+    {
+      "name": "Archrig \u00e2\u009a\u0094\u00ef\u00b8\u008f\u00f0\u009f\u008c\u00aa"
+    },
+    {
+      "name": "Aidan Hennessy"
+    },
+    {
+      "name": "\u00f0\u009f\u0094\u00bbJakkapan\u00e2\u0080\u008b Phaingam\u00e2\u0080\u008b lll"
+    },
+    {
+      "name": "Instagram User"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1586963069457,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://eoavsxm.site/DzJf94L2",
+        "share_text": "18+"
+      }
+    }
+  ],
+  "title": "Ernst Eide, Gavin Tarver/LSR, Archrig \u00e2\u009a\u0094\u00ef\u00b8\u008f\u00f0\u009f\u008c\u00aa and 2 others",
+  "is_still_participant": true,
+  "thread_type": "PendingGroup",
+  "thread_path": "message_requests/ernsteidegavintarverlsrarchrigand2others_924713071292074",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

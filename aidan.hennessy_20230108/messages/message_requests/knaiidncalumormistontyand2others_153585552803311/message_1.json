@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "\u00c2\u00ab\u00f0\u009f\u00a7\u0091\u00f0\u009f\u008f\u00be\u00e2\u0080\u008d\u00f0\u009f\u009a\u0080\u00e1\u0097\u00b7\u00e1\u0093\u00b0\u00e1\u0098\u009c K\u00e1\u0097\u00a9\u00e1\u0091\u00ad \u00e4\u00b9\u0083!\u00ef\u00bd\u00b2\u00e1\u0084\u0083\u00e3\u0082\u0093\u00e2\u009b\u0088\u00c2\u00bb"
+    },
+    {
+      "name": "Calum Ormiston"
+    },
+    {
+      "name": "Ty"
+    },
+    {
+      "name": "L\u00c3\u00a9o Fleury B\u00c3\u00a9langer\u00e2\u0084\u00a2"
+    },
+    {
+      "name": "Aidan Hennessy"
+    },
+    {
+      "name": "Instagram User"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1587692642319,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://xsmxmes.site/YYpmtR4f",
+        "share_text": "18+"
+      }
+    }
+  ],
+  "title": "\u00c2\u00ab\u00f0\u009f\u00a7\u0091\u00f0\u009f\u008f\u00be\u00e2\u0080\u008d\u00f0\u009f\u009a\u0080\u00e1\u0097\u00b7\u00e1\u0093\u00b0\u00e1\u0098\u009c K\u00e1\u0097\u00a9\u00e1\u0091\u00ad \u00e4\u00b9\u0083!\u00ef\u00bd\u00b2\u00e1\u0084\u0083\u00e3\u0082\u0093\u00e2\u009b\u0088\u00c2\u00bb, Calum Ormiston, Ty and 2 others",
+  "is_still_participant": true,
+  "thread_type": "PendingGroup",
+  "thread_path": "message_requests/knaiidncalumormistontyand2others_153585552803311",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

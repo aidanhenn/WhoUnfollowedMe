@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "anna tesmer"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "anna tesmer",
+      "timestamp_ms": 1642006113745,
+      "content": "looks cool"
+    },
+    {
+      "sender_name": "anna tesmer",
+      "timestamp_ms": 1642006109663,
+      "content": "fun"
+    },
+    {
+      "sender_name": "anna tesmer",
+      "timestamp_ms": 1642006108349,
+      "content": "oh"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1642003616431,
+      "content": "This is what I was trying to teach u lol"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1642003616023
+    }
+  ],
+  "title": "anna tesmer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/annatesmer_797149281683969",
+  "magic_words": [
+    
+  ]
+}

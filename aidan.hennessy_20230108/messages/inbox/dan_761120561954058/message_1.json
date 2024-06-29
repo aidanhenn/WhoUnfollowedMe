@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Dan"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1637884429778,
+      "content": "It is that\u00e2\u0080\u0099s why they\u00e2\u0080\u0099re only allowed to jump against other guys with blade legs"
+    },
+    {
+      "sender_name": "Dan",
+      "timestamp_ms": 1637884000508,
+      "content": "Looks like cheating jumping off the blade leg"
+    },
+    {
+      "sender_name": "Dan",
+      "timestamp_ms": 1637883882069
+    }
+  ],
+  "title": "Dan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/dan_761120561954058",
+  "magic_words": [
+    
+  ]
+}

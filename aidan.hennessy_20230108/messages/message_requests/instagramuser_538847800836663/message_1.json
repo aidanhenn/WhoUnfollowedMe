@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1599944117813,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://www.ines888.com/1h"
+      }
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_538847800836663",
+  "magic_words": [
+    
+  ]
+}

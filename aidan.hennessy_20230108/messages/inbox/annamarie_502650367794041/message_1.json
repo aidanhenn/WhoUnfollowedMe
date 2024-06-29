@@ -1,0 +1,83 @@
+{
+  "participants": [
+    {
+      "name": "Anna-Marie\u00f0\u009f\u00a4\u00aa"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anna-Marie\u00f0\u009f\u00a4\u00aa",
+      "timestamp_ms": 1664668796409,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1664668788785,
+      "content": "Miss you!\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Anna-Marie\u00f0\u009f\u00a4\u00aa"
+        }
+      ]
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1664668776193
+    },
+    {
+      "sender_name": "Anna-Marie\u00f0\u009f\u00a4\u00aa",
+      "timestamp_ms": 1664668744791,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Anna-Marie\u00f0\u009f\u00a4\u00aa",
+      "timestamp_ms": 1664668743868,
+      "content": "I know it\u00e2\u0080\u0099s not your bday until tomorrow but wanted to post for Rachel now!! Hope you have a great day and are having lots of fun at school. Super happy to see you and Alyssa super happy together too\u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Aidan Hennessy"
+        }
+      ]
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1664668712192,
+      "content": "Thanks Anna \u00f0\u009f\u0098\u0081\u00f0\u009f\u0098\u0081",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Anna-Marie\u00f0\u009f\u00a4\u00aa"
+        }
+      ]
+    },
+    {
+      "sender_name": "Anna-Marie\u00f0\u009f\u00a4\u00aa",
+      "timestamp_ms": 1664668660509,
+      "content": "Anna-Marie\u00f0\u009f\u00a4\u00aa shared a story."
+    },
+    {
+      "sender_name": "Anna-Marie\u00f0\u009f\u00a4\u00aa",
+      "timestamp_ms": 1615244917990
+    },
+    {
+      "sender_name": "Anna-Marie\u00f0\u009f\u00a4\u00aa",
+      "timestamp_ms": 1601633661308
+    },
+    {
+      "sender_name": "Anna-Marie\u00f0\u009f\u00a4\u00aa",
+      "timestamp_ms": 1601633656392
+    }
+  ],
+  "title": "Anna-Marie\u00f0\u009f\u00a4\u00aa",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/annamarie_502650367794041",
+  "magic_words": [
+    
+  ]
+}

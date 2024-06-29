@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Cory Bill Jr"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cory Bill Jr",
+      "timestamp_ms": 1619986928530
+    }
+  ],
+  "title": "Cory Bill Jr",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/corybilljr_796305747974915",
+  "magic_words": [
+    
+  ]
+}

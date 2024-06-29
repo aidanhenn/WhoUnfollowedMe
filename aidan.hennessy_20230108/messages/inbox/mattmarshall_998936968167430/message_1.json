@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Matt Marshall"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1667356019253,
+      "content": "\u00f0\u009f\u0094\u00a5"
+    },
+    {
+      "sender_name": "Matt Marshall",
+      "timestamp_ms": 1667348278807,
+      "photos": [
+        {
+          "uri": "messages/inbox/mattmarshall_998936968167430/photos/313578626_5662580443828124_7293880667074791525_n_5662580440494791.jpg",
+          "creation_timestamp": 1667348278
+        }
+      ]
+    },
+    {
+      "sender_name": "Matt Marshall",
+      "timestamp_ms": 1667348278519,
+      "photos": [
+        {
+          "uri": "messages/inbox/mattmarshall_998936968167430/photos/312247586_1162569067973088_7093581229123795390_n_1162569064639755.jpg",
+          "creation_timestamp": 1667348278
+        }
+      ]
+    }
+  ],
+  "title": "Matt Marshall",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/mattmarshall_998936968167430",
+  "magic_words": [
+    
+  ]
+}

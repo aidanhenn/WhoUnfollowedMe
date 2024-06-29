@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Krisjin Thompson"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Krisjin Thompson",
+      "timestamp_ms": 1547607785696,
+      "content": "I figured \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1547607062244,
+      "content": "U mixed up the tags\u00f0\u009f\u0098\u0082"
+    }
+  ],
+  "title": "Krisjin Thompson",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/krisjinthompson_575356193865631",
+  "magic_words": [
+    
+  ]
+}

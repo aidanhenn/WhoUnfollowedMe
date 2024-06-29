@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Brandon Babineau"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brandon Babineau",
+      "timestamp_ms": 1564510117710,
+      "content": "Ik"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1564509688574,
+      "content": "You\u00e2\u0080\u0099ll be missed"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1564509671770,
+      "content": "Damn that sucks"
+    },
+    {
+      "sender_name": "Brandon Babineau",
+      "timestamp_ms": 1564509662657,
+      "content": "In Minnesota"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1564509660976,
+      "content": "Lmao oops"
+    },
+    {
+      "sender_name": "Brandon Babineau",
+      "timestamp_ms": 1564509655769,
+      "content": "Hillcrest"
+    }
+  ],
+  "title": "Brandon Babineau",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/brandonbabineau_524296352295386",
+  "magic_words": [
+    
+  ]
+}

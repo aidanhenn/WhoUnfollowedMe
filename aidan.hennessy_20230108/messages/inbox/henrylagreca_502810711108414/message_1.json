@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Henry LaGreca"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Henry LaGreca",
+      "timestamp_ms": 1620082762679
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1615258120647,
+      "content": "thanks bro"
+    },
+    {
+      "sender_name": "Henry LaGreca",
+      "timestamp_ms": 1615250235522,
+      "content": "aye good shit, congrats man"
+    },
+    {
+      "sender_name": "Henry LaGreca",
+      "timestamp_ms": 1615250235331,
+      "share": {
+        "link": "https://www.instagram.com/p/CMKsLvos95N/?feed_type=reshare_chaining&carousel_share_child_media_id=2525024862204059213_1794053808",
+        "share_text": "This week's men's #LECtf awards went to @ecsuathletics sophomore Cory Bill, freshmen Carlos Aurora and Aidan Hennessy, and the Warriors 4x400 relay #d3tf #NCAAD3 @ustfccca @ncaadiii",
+        "original_content_owner": "littleeastconf"
+      }
+    }
+  ],
+  "title": "Henry LaGreca",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/henrylagreca_502810711108414",
+  "magic_words": [
+    
+  ]
+}

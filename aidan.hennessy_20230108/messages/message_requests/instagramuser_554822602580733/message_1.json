@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1568127265613,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://ouskshop.com/",
+        "share_text": "\u00e2\u009c\u0085Live show every n\u00d1\u0096ght for you \u00f0\u009f\u008e\u00a5\u00f0\u009f\u00a5\u00b0\u00f0\u009f\u0098\u008d \u00f0\u009f\u0094\u00b9 I am a cool Girl \u00f0\u009f\u0094\u00b9"
+      }
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_554822602580733",
+  "magic_words": [
+    
+  ]
+}

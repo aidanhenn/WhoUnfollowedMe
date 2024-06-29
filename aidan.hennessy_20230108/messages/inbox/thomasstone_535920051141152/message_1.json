@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Thomas Stone"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thomas Stone",
+      "timestamp_ms": 1619994027638
+    },
+    {
+      "sender_name": "Thomas Stone",
+      "timestamp_ms": 1615230147140
+    }
+  ],
+  "title": "Thomas Stone",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/thomasstone_535920051141152",
+  "magic_words": [
+    
+  ]
+}

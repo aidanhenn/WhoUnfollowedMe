@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Jacob Livingston"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jacob Livingston",
+      "timestamp_ms": 1560908612701,
+      "content": "Pretty good. It\u00e2\u0080\u0099s been a while I was just checking im"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1560908512301,
+      "content": "I\u00e2\u0080\u0099m good hbu"
+    },
+    {
+      "sender_name": "Jacob Livingston",
+      "timestamp_ms": 1560907428173,
+      "content": "What\u00e2\u0080\u0099s up man. How\u00e2\u0080\u0099s it going"
+    }
+  ],
+  "title": "Jacob Livingston",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jacoblivingston_526003145455315",
+  "magic_words": [
+    
+  ]
+}

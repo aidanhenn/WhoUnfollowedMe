@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "AB3\u00e2\u009d\u00a4"
+    },
+    {
+      "name": "Shaun Langlois"
+    },
+    {
+      "name": "Aaron Cravens"
+    },
+    {
+      "name": "Amelia"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "G.Wilson Jr10",
+      "timestamp_ms": 1565684103305,
+      "content": "G.Wilson Jr10 left the group.",
+      "users": [
+        {
+          "name": "G.Wilson Jr10"
+        }
+      ]
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1565659170497,
+      "content": "A contact named the group video 4 min."
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1565659169080,
+      "content": "A contact added AB3\u00e2\u009d\u00a4 and 3 others to the group.",
+      "users": [
+        {
+          "name": "AB3\u00e2\u009d\u00a4"
+        },
+        {
+          "name": "Aaron Cravens"
+        },
+        {
+          "name": "G.Wilson Jr10"
+        },
+        {
+          "name": "Amelia"
+        }
+      ]
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1565659164182,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://hippartner.stream/",
+        "share_text": "Visit the page to see this album : My ass misses you *) Click on the picture to write to me..."
+      }
+    }
+  ],
+  "title": "video 4 min.",
+  "is_still_participant": true,
+  "thread_type": "PendingGroup",
+  "thread_path": "message_requests/video4min_2621280364624365",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

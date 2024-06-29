@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Chi"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chi",
+      "timestamp_ms": 1644963062433,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://instagram.com/stories/aidan.hennessy/2774473507825048038"
+      }
+    },
+    {
+      "sender_name": "Chi",
+      "timestamp_ms": 1635531473824,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Chi",
+      "timestamp_ms": 1635531472986,
+      "content": "Fucking get it! Then 14m next"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1635051392412,
+      "content": "I\u00e2\u0080\u0099m  jumping 45 ft this year \u00f0\u009f\u0097\u00a3\u00f0\u009f\u0097\u00a3\u00f0\u009f\u0097\u00a3",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Chi"
+        }
+      ]
+    }
+  ],
+  "title": "Chi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/chi_521122309274943",
+  "magic_words": [
+    
+  ]
+}

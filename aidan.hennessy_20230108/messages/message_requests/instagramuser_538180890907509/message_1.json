@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1547055233889,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://faspertgd.com/t338dqjj",
+        "share_text": "See the full video on thechive.com"
+      }
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_538180890907509",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "desirae \u00f0\u009f\u00ab\u00a7"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "desirae \u00f0\u009f\u00ab\u00a7",
+      "timestamp_ms": 1630513206724,
+      "content": "HAHA"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1630500973885,
+      "content": "Go put some air in ur tires"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1626559567851,
+      "content": "\u00f0\u009f\u0092\u00af"
+    }
+  ],
+  "title": "desirae \u00f0\u009f\u00ab\u00a7",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/desirae_454545735614257",
+  "magic_words": [
+    
+  ]
+}

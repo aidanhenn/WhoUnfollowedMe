@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1639424120789,
+      "content": "And btw\u00e2\u0080\u00a6 \n\nThese guys sold out their prior project (Cheeky Lion Club) for $2.5m, and this one won't be any different, specially with the enormous community behind them already and the reputation they've already built up. \n\nYou probably see a ton of nft projects a day, but which one would you bet on? Why not hop on a winner horse? They did it before with Cheeky Lion Club, and they'll do it again with Cheeky Cougar Club. \n\nTheir public sale is LIVE now @cheekycougarclub ..."
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1639424117085,
+      "share": {
+        "link": "https://www.instagram.com/_u/cheekycougarlaunch",
+        "profile_share_username": "cheekycougarlaunch",
+        "profile_share_name": "Cheeky Cougar Launch Page"
+      }
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_706092077445567",
+  "magic_words": [
+    
+  ]
+}

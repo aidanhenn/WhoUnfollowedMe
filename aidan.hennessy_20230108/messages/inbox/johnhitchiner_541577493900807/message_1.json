@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "John Hitchiner"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "John Hitchiner",
+      "timestamp_ms": 1572708113113
+    }
+  ],
+  "title": "John Hitchiner",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/johnhitchiner_541577493900807",
+  "magic_words": [
+    
+  ]
+}

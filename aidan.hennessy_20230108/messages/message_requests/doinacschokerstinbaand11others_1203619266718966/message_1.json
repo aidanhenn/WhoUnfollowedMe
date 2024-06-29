@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Doina C. Scho"
+    },
+    {
+      "name": "Kerstin Ba"
+    },
+    {
+      "name": "\u00f0\u009f\u00a5\u00b7"
+    },
+    {
+      "name": "Dickson Lam"
+    },
+    {
+      "name": "Swamp Rabbit Run Club"
+    },
+    {
+      "name": "Mireia Paretas"
+    },
+    {
+      "name": "MartineMartin22"
+    },
+    {
+      "name": "micha"
+    },
+    {
+      "name": "Jeremy Bacon"
+    },
+    {
+      "name": "Beth Ann"
+    },
+    {
+      "name": "Aidan Hennessy"
+    },
+    {
+      "name": "j u l i e   v e l \u00c3\u00a1 s q u e z   g a l l a r d o"
+    },
+    {
+      "name": "Rahel Torp"
+    },
+    {
+      "name": "Charlotte \u00f0\u009f\u0092\u009c"
+    },
+    {
+      "name": "Instagram User"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1612866131767,
+      "content": "https://bnc.lt/8dsJSkgmJdb",
+      "share": {
+        "link": "https://bnc.lt/8dsJSkgmJdb"
+      }
+    }
+  ],
+  "title": "Doina C. Scho, Kerstin Ba, \u00f0\u009f\u00a5\u00b7 and 11 others",
+  "is_still_participant": true,
+  "thread_type": "PendingGroup",
+  "thread_path": "message_requests/doinacschokerstinbaand11others_1203619266718966",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1624405173203,
+      "content": "\u00f0\u009f\u00a4\u00a5 You shouldn't miss them @kickme.club  !!! They will amazed you  \u00f0\u009f\u0098\u008d!!"
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1624405172387
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_826661721306877",
+  "magic_words": [
+    
+  ]
+}

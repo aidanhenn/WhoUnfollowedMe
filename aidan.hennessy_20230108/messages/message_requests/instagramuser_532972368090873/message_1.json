@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1598659524180,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://www.inespaul.com/usa",
+        "share_text": "A word is what you should start with. New publishing blog tool"
+      }
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_532972368090873",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "participants": [
+    {
+      "name": "Grant Dingley"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Grant Dingley",
+      "timestamp_ms": 1615234260819,
+      "content": "I know"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1615233836302,
+      "content": "Ik we\u00e2\u0080\u0099re gonna be hosting a lot of meets in the spring"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1615233818996,
+      "content": "No way that\u00e2\u0080\u0099d be sick"
+    },
+    {
+      "sender_name": "Grant Dingley",
+      "timestamp_ms": 1615233340175,
+      "content": "So if he makes it I\u00e2\u0080\u0099ll be coming up to watch if it\u00e2\u0080\u0099s allowed"
+    },
+    {
+      "sender_name": "Grant Dingley",
+      "timestamp_ms": 1615233327033,
+      "content": "My friend that does cross country here has a meet there"
+    },
+    {
+      "sender_name": "Grant Dingley",
+      "timestamp_ms": 1615233312527,
+      "content": "I might be coming to eastern"
+    },
+    {
+      "sender_name": "Grant Dingley",
+      "timestamp_ms": 1615233305274,
+      "content": "Nice"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1615230717060,
+      "content": "I jumped 6\u00e2\u0080\u0099 in high and 41\u00e2\u0080\u00994 in triple"
+    },
+    {
+      "sender_name": "Grant Dingley",
+      "timestamp_ms": 1615230629531,
+      "content": "Well how u win athlete of the week then"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1615230606181,
+      "content": "Conor went crazy in long jump"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1615230599287,
+      "content": "Yeah it\u00e2\u0080\u0099s Ight. I should be doing better though"
+    },
+    {
+      "sender_name": "Grant Dingley",
+      "timestamp_ms": 1615230085128,
+      "content": "I\u00e2\u0080\u0099m assuming track is going good"
+    },
+    {
+      "sender_name": "Grant Dingley",
+      "timestamp_ms": 1615229382359,
+      "content": "Easy",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Aidan Hennessy"
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/aidan.hennessy/2525046307368192644"
+      }
+    }
+  ],
+  "title": "Grant Dingley",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/grantdingley_548353359891402",
+  "magic_words": [
+    
+  ]
+}

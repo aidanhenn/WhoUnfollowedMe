@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Jordan Rijkse"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1513274578660,
+      "content": "Ok I have to know by next week and it costs $95"
+    },
+    {
+      "sender_name": "Jordan Rijkse",
+      "timestamp_ms": 1513258245825,
+      "content": "I might be able to. I\u00e2\u0080\u0099m not sure if I have indoor league with FSA"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1513253711862,
+      "content": "No I\u00e2\u0080\u0099m putting together a team from our school"
+    },
+    {
+      "sender_name": "Jordan Rijkse",
+      "timestamp_ms": 1513218133131,
+      "content": "Wait is it the indoor league at FSA?"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1513213913877,
+      "content": "Aye do you want to play on my indoor team?"
+    }
+  ],
+  "title": "Jordan Rijkse",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jordanrijkse_550739126318540",
+  "magic_words": [
+    
+  ]
+}

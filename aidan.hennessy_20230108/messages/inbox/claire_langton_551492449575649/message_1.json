@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "claire_langton"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1633191814701,
+      "content": "Very funny \u00f0\u009f\u0099\u0084"
+    },
+    {
+      "sender_name": "claire_langton",
+      "timestamp_ms": 1633189729682,
+      "content": "\u00f0\u009f\u0098\u0086\u00f0\u009f\u0098\u0086"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1633189500634,
+      "share": {
+        "link": "https://instagram.com/stories/aidan.hennessy/2675709915948212358"
+      }
+    },
+    {
+      "sender_name": "claire_langton",
+      "timestamp_ms": 1633189076772
+    }
+  ],
+  "title": "claire_langton",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/claire_langton_551492449575649",
+  "magic_words": [
+    
+  ]
+}

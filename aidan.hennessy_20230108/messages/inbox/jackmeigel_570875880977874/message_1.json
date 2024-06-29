@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Jack Meigel"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jack Meigel",
+      "timestamp_ms": 1590007789304,
+      "content": "It\u00e2\u0080\u0099s tough"
+    },
+    {
+      "sender_name": "Jack Meigel",
+      "timestamp_ms": 1590007787083,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1590004904404,
+      "content": "Damn you\u00e2\u0080\u0099re lucky my school didn\u00e2\u0080\u0099t take ours out. I\u00e2\u0080\u0099ve been driving everywhere trying to find a place to jump :(",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Jack Meigel"
+        }
+      ]
+    },
+    {
+      "sender_name": "Jack Meigel",
+      "timestamp_ms": 1589984468732,
+      "content": "Just no stands"
+    },
+    {
+      "sender_name": "Jack Meigel",
+      "timestamp_ms": 1589984465581,
+      "content": "So I still actually have access to the mats at my school"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1589943235382,
+      "content": "That\u00e2\u0080\u0099s sick I\u00e2\u0080\u0099ve wanted to build a high jump set up for a while now. Do you have any ideas for what you\u00e2\u0080\u0099re gonna use for a mat?"
+    }
+  ],
+  "title": "Jack Meigel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jackmeigel_570875880977874",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Jaleel"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jaleel",
+      "timestamp_ms": 1505131318440,
+      "photos": [
+        {
+          "uri": "messages/inbox/jaleel_545914503475028/photos/21568463_1285001561610707_6913577571829415936_n_1008053016336716.jpg",
+          "creation_timestamp": 1603361209
+        }
+      ]
+    },
+    {
+      "sender_name": "Jaleel",
+      "timestamp_ms": 1505131306058,
+      "photos": [
+        {
+          "uri": "messages/inbox/jaleel_545914503475028/photos/21436270_807443102795471_1599845978838401024_n_1198862677155345.jpg",
+          "creation_timestamp": 1602657748
+        }
+      ]
+    }
+  ],
+  "title": "Jaleel",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jaleel_545914503475028",
+  "magic_words": [
+    
+  ]
+}

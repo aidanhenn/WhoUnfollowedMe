@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Giulietta_.udyFianna"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Giulietta_.udyFianna",
+      "timestamp_ms": 1622680625572,
+      "content": "\u00f0\u009f\u00a5\u008c Give me an \u00e2\u0080\u009cyes\u00e2\u0080\u009d to try my first pair  @chxx_plug"
+    },
+    {
+      "sender_name": "Giulietta_.udyFianna",
+      "timestamp_ms": 1622680624378
+    }
+  ],
+  "title": "Giulietta_.udyFianna",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/giulietta_udyfianna_597466221216057",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1638028720378,
+      "content": "This NFT project is going to be the biggest collection of the YEAR! \u00f0\u009f\u009a\u0080\n\nThey are giving away $25,000 & 10 NFTs to celebrate this amazing partnership collab in their discord!\n\n\u00f0\u009f\u008e\u0081 25k ($5,000 to 5 people)\n 10 Jaguar NFTs (1 per person)\n\nThe Jaguar Tribe NFTs Pre-Sale November 29th, 2021.\n\nHow to enter:\n\nFollow @jaguarnft \nDiscord (link in bio)\n\nCelebrities and influencers are jumping on board and you should too! LFG \u00f0\u009f\u009a\u0080"
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1638028720378
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_756239252443321",
+  "magic_words": [
+    
+  ]
+}

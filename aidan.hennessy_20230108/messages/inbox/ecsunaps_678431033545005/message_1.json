@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "ECSU naps"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1636921599711,
+      "photos": [
+        {
+          "uri": "messages/inbox/ecsunaps_678431033545005/photos/256532540_948893765835313_1429446416708514921_n_1569826926752267.jpg",
+          "creation_timestamp": 1636921601
+        }
+      ]
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1636921590384,
+      "photos": [
+        {
+          "uri": "messages/inbox/ecsunaps_678431033545005/photos/256154756_4798479556831917_3770940266413344406_n_323654705811798.jpg",
+          "creation_timestamp": 1636921598
+        }
+      ]
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1636921586663,
+      "photos": [
+        {
+          "uri": "messages/inbox/ecsunaps_678431033545005/photos/256760093_125717603197473_5243618128501277613_n_254615523365881.jpg",
+          "creation_timestamp": 1636921588
+        }
+      ]
+    }
+  ],
+  "title": "ECSU naps",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ecsunaps_678431033545005",
+  "magic_words": [
+    
+  ]
+}

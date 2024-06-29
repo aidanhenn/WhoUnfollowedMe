@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1574477404224,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://gomob.site/c6F8cbBn",
+        "share_text": "Visit the page to see this album : Wanna more? JUST CLICK ;)"
+      }
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_316369906500104",
+  "magic_words": [
+    
+  ]
+}

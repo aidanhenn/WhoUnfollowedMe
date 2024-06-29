@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "JuVaughn OLY"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1657296589492,
+      "content": "Come to CT!!!"
+    }
+  ],
+  "title": "JuVaughn OLY",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/juvaughnoly_558193068907837",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1644531244760,
+      "content": "This is the most viral NFT project yet\u00f0\u009f\u009a\u0080\n@CryptoHipposNFT is changing the game in NFT\u00e2\u0080\u0099s, bringing concrete utility attached to their collection. A decentralized business wrapped into an NFT, @CryptoHipposNFT will be purchasing AirBnB rental properties for their holders along with other ventures described in their white paper. There are already 10k members in the discord! (Click the link in their bio and be apart of history)\u00f0\u009f\u00a4\u00a9"
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1644531244760,
+      "share": {
+        "link": "https://www.instagram.com/_u/cryptohipposnft",
+        "profile_share_username": "cryptohipposnft",
+        "profile_share_name": "CryptoHippos - SOLD OUT"
+      }
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_744340373620737",
+  "magic_words": [
+    
+  ]
+}

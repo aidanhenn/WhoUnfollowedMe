@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1561967996768,
+      "share": {
+        "link": "https://www.instagram.com/p/By4szlQDAqO/?feed_type=reshare_chaining",
+        "share_text": ""
+      }
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_521542609232366",
+  "magic_words": [
+    
+  ]
+}

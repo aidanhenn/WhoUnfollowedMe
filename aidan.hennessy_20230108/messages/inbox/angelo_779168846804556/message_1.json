@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Angelo."
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Angelo.",
+      "timestamp_ms": 1651413968458
+    },
+    {
+      "sender_name": "Angelo.",
+      "timestamp_ms": 1651413779210
+    },
+    {
+      "sender_name": "Angelo.",
+      "timestamp_ms": 1650849884943,
+      "share": {
+        "link": "https://instagram.com/stories/angeloarmonio.photography/2823855928652168528"
+      }
+    },
+    {
+      "sender_name": "Angelo.",
+      "timestamp_ms": 1648960672852,
+      "share": {
+        "link": "https://www.instagram.com/p/Cb4DHkQMfJg/?feed_type=reshare_chaining&carousel_share_child_media_id=2808008081767789152_39600028617",
+        "share_text": "Umass Dartmouth pt.3",
+        "original_content_owner": "angeloarmonio.photography"
+      }
+    }
+  ],
+  "title": "Angelo.",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/angelo_779168846804556",
+  "magic_words": [
+    
+  ]
+}

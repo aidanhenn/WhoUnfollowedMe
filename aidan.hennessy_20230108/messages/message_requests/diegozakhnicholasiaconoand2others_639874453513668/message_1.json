@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "..DIEGO.."
+    },
+    {
+      "name": "Zak H"
+    },
+    {
+      "name": "Nicholas Iacono"
+    },
+    {
+      "name": "Herry Adam"
+    },
+    {
+      "name": "Aidan Hennessy"
+    },
+    {
+      "name": "Instagram User"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1585749450626,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://sopoxem.site/DzJf94L2",
+        "share_text": "18+"
+      }
+    }
+  ],
+  "title": "..DIEGO.., Zak H, Nicholas Iacono and 2 others",
+  "is_still_participant": true,
+  "thread_type": "PendingGroup",
+  "thread_path": "message_requests/diegozakhnicholasiaconoand2others_639874453513668",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

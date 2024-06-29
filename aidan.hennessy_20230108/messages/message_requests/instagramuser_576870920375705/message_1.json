@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1547074612496,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://sociallovelabs.win/",
+        "share_text": "Someone think of a name for boob twerking so we can get this craze started!?"
+      }
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_576870920375705",
+  "magic_words": [
+    
+  ]
+}

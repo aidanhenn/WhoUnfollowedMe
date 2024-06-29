@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1638565932751,
+      "content": "Wanna be rich? Then don't miss the most hyped up NFT project of the year!\n\nBored Bigfoot Billionaires is so hyped they are partnered with 100+ influencers for free. They just announced their project & opened the whitelist so don't miss out being early... The artwork is unreal and they are set to be a competitor of Bored Ape Yacht Club!\n\n\u00f0\u009f\u009a\u0080  100+ partnered influencers!\n\n\u00f0\u009f\u009a\u00a8  Billboard in Times Square NYC starting next week!\n\n\u00f0\u009f\u00a4\u0091  $200,000+ scheduled in giveaways!\n\n\u00f0\u009f\u0092\u00af  Giving away on Tesla!"
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1638565932751
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_701276317926766",
+  "magic_words": [
+    
+  ]
+}

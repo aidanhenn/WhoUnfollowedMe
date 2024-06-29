@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Ryan Sanders"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1643771826826,
+      "videos": [
+        {
+          "uri": "messages/inbox/ryansanders_816693496398739/videos/273227904_1068019424042862_8749163474836145195_n_615120512934888.mp4",
+          "creation_timestamp": 1643771828
+        }
+      ]
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1643771825258,
+      "content": "Here are two angles of my 12.96 jump"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1643771821334,
+      "videos": [
+        {
+          "uri": "messages/inbox/ryansanders_816693496398739/videos/273310789_510677743721952_7468842327308117456_n_955944435295420.mp4",
+          "creation_timestamp": 1643771822
+        }
+      ]
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1643771776658,
+      "content": "Hi coach Sanders, I\u00e2\u0080\u0099m Aidan and I\u00e2\u0080\u0099m a jumper at Eastern Connecticut State University. Last year was my first time doing triple and I managed to jump 12.96m but my technique is pretty horrible. I was hoping you could give me some tips to help me add a few inches. I have a big meet at Boston University in two weeks and I\u00e2\u0080\u0099m hoping to break into the 13\u00e2\u0080\u0099s. Any help would be much appreciated!!"
+    }
+  ],
+  "title": "Ryan Sanders",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ryansanders_816693496398739",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1547680421157,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1547680418584,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://habartli.com/",
+        "share_text": "from theCHIVE"
+      }
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_565978424800422",
+  "magic_words": [
+    
+  ]
+}

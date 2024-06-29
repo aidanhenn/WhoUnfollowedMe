@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1568900205756,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://insta-fitgrl.com/grlses"
+      }
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_556575269071427",
+  "magic_words": [
+    
+  ]
+}

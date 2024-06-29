@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Coby Rhodes"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Coby Rhodes",
+      "timestamp_ms": 1619747799669
+    }
+  ],
+  "title": "Coby Rhodes",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/cobyrhodes_604849884247052",
+  "magic_words": [
+    
+  ]
+}

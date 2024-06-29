@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Christian Cajigas"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Angelo Roman"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Foo"
+    },
+    {
+      "name": "Ben Goodman"
+    },
+    {
+      "name": "Aidan Hennessy"
+    },
+    {
+      "name": "alexis_rios28"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1567467938263,
+      "content": "A contact named the group Take off my pants!"
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1567467935840,
+      "content": "A contact added you and 3 others to the group.",
+      "users": [
+        {
+          "name": "Christian Cajigas"
+        },
+        {
+          "name": "Angelo Roman"
+        },
+        {
+          "name": "Foo"
+        },
+        {
+          "name": "Aidan Hennessy"
+        }
+      ]
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1567467933962,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://belife1.com/mutants0209",
+        "share_text": "Find me and write! Take my body..."
+      }
+    }
+  ],
+  "title": "Take off my pants!",
+  "is_still_participant": true,
+  "thread_type": "PendingGroup",
+  "thread_path": "message_requests/takeoffmypants_2418306338284279",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Christoitles"
+    },
+    {
+      "name": "Alexander Schoffen"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Number 8\u00f0\u009f\u0092\u0095 \u00e2\u009a\u009a\u00e2\u009b\u00a7\u00f0\u009f\u0093\u00bf"
+    },
+    {
+      "name": "Christian Slomp"
+    },
+    {
+      "name": "Annette Pastran"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1569735526356,
+      "content": "A contact named the group Take me please."
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1569735517052,
+      "content": "A contact added you and 3 others to the group.",
+      "users": [
+        {
+          "name": "Christoitles"
+        },
+        {
+          "name": "Christian Slomp"
+        },
+        {
+          "name": "Annette Pastran"
+        },
+        {
+          "name": "Aidan Hennessy"
+        }
+      ]
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1569735506272,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://lovme32.pw/3LcVLHj5",
+        "share_text": "It's so simple..."
+      }
+    }
+  ],
+  "title": "Take me please",
+  "is_still_participant": true,
+  "thread_type": "PendingGroup",
+  "thread_path": "message_requests/takemeplease_1136548576555659",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

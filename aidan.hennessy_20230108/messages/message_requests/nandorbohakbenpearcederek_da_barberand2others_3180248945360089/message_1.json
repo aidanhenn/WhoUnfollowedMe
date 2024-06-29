@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "N\u00c3\u00a1ndor Boh\u00c3\u00a1k"
+    },
+    {
+      "name": "Ben Pearce"
+    },
+    {
+      "name": "derek_da_barber"
+    },
+    {
+      "name": "Bobby D Cosper"
+    },
+    {
+      "name": "Aidan Hennessy"
+    },
+    {
+      "name": "Instagram User"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1588551328202,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://omxvxom.site/DzJf94L2",
+        "share_text": "18+"
+      }
+    }
+  ],
+  "title": "N\u00c3\u00a1ndor Boh\u00c3\u00a1k, Ben Pearce, derek_da_barber and 2 others",
+  "is_still_participant": true,
+  "thread_type": "PendingGroup",
+  "thread_path": "message_requests/nandorbohakbenpearcederek_da_barberand2others_3180248945360089",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

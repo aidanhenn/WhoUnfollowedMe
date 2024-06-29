@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Adam Wilson"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1615251378482,
+      "content": "Yessirrr"
+    },
+    {
+      "sender_name": "Adam Wilson",
+      "timestamp_ms": 1615249815852,
+      "content": "Eat that shit boi",
+      "share": {
+        "link": "https://instagram.com/stories/aidan.hennessy/2525046307368192644"
+      }
+    }
+  ],
+  "title": "Adam Wilson",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/adamwilson_512647276797618",
+  "magic_words": [
+    
+  ]
+}

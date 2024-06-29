@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Alyssa Sirianni"
+    },
+    {
+      "name": "Jonnie Gearin"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alyssa Sirianni",
+      "timestamp_ms": 1636725251672,
+      "content": "Ugh"
+    },
+    {
+      "sender_name": "Alyssa Sirianni",
+      "timestamp_ms": 1636725250546,
+      "content": "Fuck that wasn\u00e2\u0080\u0099t supposed to be a group"
+    },
+    {
+      "sender_name": "Alyssa Sirianni",
+      "timestamp_ms": 1636725242778,
+      "content": "Alyssa sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/CWHhsQaAeCj/?id=2704278278067314851_2957758757",
+        "share_text": "*but why is it so spicy*\n(via: @karmela_sa_k)",
+        "original_content_owner": "bitch"
+      }
+    }
+  ],
+  "title": "Alyssa Sirianni and Jonnie Gearin",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/alyssasirianniandjonniegearin_4961763830514337",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

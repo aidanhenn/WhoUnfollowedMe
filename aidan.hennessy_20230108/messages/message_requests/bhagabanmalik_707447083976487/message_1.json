@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Bhagaban Malik"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bhagaban Malik",
+      "timestamp_ms": 1641320295020,
+      "content": "Yo! You here?\n\nI\u00e2\u0080\u0099m the marketing manager for @anthonygrayny and we had a look at your profile and think you would be a perfect fit! \n\n@anthonygrayny is looking for 7 more people to join his brand new January case study to learn how to run an Ecommerce platform. Ecommerce is selling simple products online like gym clothes, face masks, dog beds, jewellery, fidget toys, and much more!\n\nFor more info head over to @anthonygrayny Instagram and message him the word \"ECOM\". So far over 170 people have made 6 figures or more selling these simple products. He is awaiting your message. Why not give him a message and see!\n\nNote: Must respond within 3 hours (7 Spots Remain)"
+    },
+    {
+      "sender_name": "Bhagaban Malik",
+      "timestamp_ms": 1641320291198,
+      "share": {
+        "link": "https://www.instagram.com/_u/anthonygrayny",
+        "profile_share_username": "anthonygrayny",
+        "profile_share_name": "Anthony Gray"
+      }
+    }
+  ],
+  "title": "Bhagaban Malik",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/bhagabanmalik_707447083976487",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Eli Marshbank"
+    },
+    {
+      "name": "Elias Rivera"
+    },
+    {
+      "name": "Loi\u00cc\u0088c"
+    },
+    {
+      "name": "Finn"
+    },
+    {
+      "name": "Adam Havli\u00cc\u0081c\u00cc\u008cek"
+    },
+    {
+      "name": "logan eggert"
+    },
+    {
+      "name": "Reese Sarnowski"
+    },
+    {
+      "name": "ana"
+    },
+    {
+      "name": "Nicolas"
+    },
+    {
+      "name": "Karen Nilsen"
+    },
+    {
+      "name": "Timothy Noble"
+    },
+    {
+      "name": "brock michael"
+    },
+    {
+      "name": "Aidan Hennessy"
+    },
+    {
+      "name": "\u00e2\u0093\u009c\u00e2\u0093\u0090\u00e2\u0093\u0093\u00e2\u0093\u0098"
+    },
+    {
+      "name": "Instagram User"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1613939436362,
+      "content": "https://xhcy3.app.link/AH6LyRtt2db",
+      "share": {
+        "link": "https://xhcy3.app.link/AH6LyRtt2db"
+      }
+    }
+  ],
+  "title": "Eli Marshbank, Elias Rivera, Loi\u00cc\u0088c and 11 others",
+  "is_still_participant": true,
+  "thread_type": "PendingGroup",
+  "thread_path": "message_requests/elimarshbankeliasriveraloicand11others_447911473219586",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

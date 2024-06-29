@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Carl Nygren"
+    },
+    {
+      "name": "\u00f0\u009d\u0093\u00a9\u00f0\u009d\u0093\u00be\u00f0\u009d\u0093\u00bb\u00f0\u009d\u0093\u00ad\u00f0\u009d\u0093\u00b8\u00f0\u009f\u008f\u0080"
+    },
+    {
+      "name": "\u00e2\u0098\u00af\u00ef\u00b8\u008f\u00e2\u009a\u00a1\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1584294599369,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://spopemm.site/DzJf94L2",
+        "share_text": "18+"
+      }
+    }
+  ],
+  "title": "Instagram User, Carl Nygren, \u00f0\u009d\u0093\u00a9\u00f0\u009d\u0093\u00be\u00f0\u009d\u0093\u00bb\u00f0\u009d\u0093\u00ad\u00f0\u009d\u0093\u00b8\u00f0\u009f\u008f\u0080 and \u00e2\u0098\u00af\u00ef\u00b8\u008f\u00e2\u009a\u00a1\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_type": "PendingGroup",
+  "thread_path": "message_requests/instagramusercarlnygrenzurdoand_630233074429400",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "participants": [
+    {
+      "name": "Connor Hennessey"
+    },
+    {
+      "name": "mark jones"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1514410717546,
+      "content": "You\u00e2\u0080\u0099d added the wrong Conor"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1514410659564,
+      "content": "This is conor btw typing on Aidan\u00e2\u0080\u0099s acct"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1514410636843,
+      "content": "I\u00e2\u0080\u0099m lucky Raheem wasn\u00e2\u0080\u0099t there... ty mark I really appreciate it"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1514410487352,
+      "content": "Can you send me that video please ty"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1514410427794,
+      "content": "Ok that\u00e2\u0080\u0099s mine ty"
+    },
+    {
+      "sender_name": "mark jones",
+      "timestamp_ms": 1514410421562,
+      "content": "Yes"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1514410410036,
+      "content": "It\u00e2\u0080\u0099s a Samsung right?"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1514410401871,
+      "content": "Btw can you send me that video of the high jump and yes I\u00e2\u0080\u0099m at my moms ty"
+    },
+    {
+      "sender_name": "mark jones",
+      "timestamp_ms": 1514410389137,
+      "content": "Are you at your moms. We can swing by"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1514410371173,
+      "content": "Oh that\u00e2\u0080\u0099s mine ty"
+    },
+    {
+      "sender_name": "mark jones",
+      "timestamp_ms": 1514410343963,
+      "content": "I think it\u00e2\u0080\u0099s Connors"
+    },
+    {
+      "sender_name": "mark jones",
+      "timestamp_ms": 1514410321794,
+      "content": "I\u00e2\u0080\u0099m bringing it home I\u00e2\u0080\u0099ll give it to you tomorrow morning"
+    },
+    {
+      "sender_name": "mark jones",
+      "timestamp_ms": 1514410280724,
+      "content": "Yo one of your phones is here"
+    }
+  ],
+  "title": "Connor Hennessey and mark jones",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/connorhennesseyandmarkjones_2545294345518252",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

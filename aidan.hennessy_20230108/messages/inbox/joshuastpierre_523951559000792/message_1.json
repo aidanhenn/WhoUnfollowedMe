@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "joshua st. pierre"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "joshua st. pierre",
+      "timestamp_ms": 1572721890325
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1511562578825,
+      "content": "I got a nicceee phone\u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "joshua st. pierre",
+      "timestamp_ms": 1508701341098,
+      "content": "Wow thanks \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1508688816987,
+      "content": "Haha I just noticed he scored I though he missed so I tagged you\u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "joshua st. pierre",
+      "timestamp_ms": 1508685494180,
+      "content": "Omg"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1508679600692
+    }
+  ],
+  "title": "joshua st. pierre",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/joshuastpierre_523951559000792",
+  "magic_words": [
+    
+  ]
+}

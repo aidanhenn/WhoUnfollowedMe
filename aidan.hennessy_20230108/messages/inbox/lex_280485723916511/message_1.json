@@ -1,0 +1,150 @@
+{
+  "participants": [
+    {
+      "name": "Lex"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lex",
+      "timestamp_ms": 1659411810321,
+      "content": "My favs",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Aidan Hennessy"
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/aidan.hennessy/2895463446816989731"
+      }
+    },
+    {
+      "sender_name": "Lex",
+      "timestamp_ms": 1636064112047,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1636063990327,
+      "content": "No problem! If you need anything else just lmk",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Lex"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lex",
+      "timestamp_ms": 1636063849026,
+      "content": "awesome! thank you!!"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1636063712459,
+      "content": "203-241-3983"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1636063709308,
+      "content": "Here\u00e2\u0080\u0099s Jamie\u00e2\u0080\u0099s number"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1636063703547,
+      "content": "Just texted her"
+    },
+    {
+      "sender_name": "Lex",
+      "timestamp_ms": 1636063552590,
+      "content": "okay! sounds good to me. did you let her roommate know? or if i could have her roommates contact info so i can coordinate bc i\u00e2\u0080\u0099m not familiar with eastern lol"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1636063454870,
+      "content": "You could come around 3:30. I just don\u00e2\u0080\u0099t know how long lift is gonna be and if she\u00e2\u0080\u0099s gonna want to get food at the dining hall after"
+    },
+    {
+      "sender_name": "Lex",
+      "timestamp_ms": 1636062771688,
+      "content": "okay! so like what timeish works best"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1636062746886,
+      "content": "12-2 then we have lift from 2-4ish"
+    },
+    {
+      "sender_name": "Lex",
+      "timestamp_ms": 1636060937105,
+      "content": "what time is practice?"
+    },
+    {
+      "sender_name": "Lex",
+      "timestamp_ms": 1636048110913,
+      "content": "okay perfect!!"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1636047332155,
+      "content": "If you could do Friday that would be perfect! We\u00e2\u0080\u0099re going on a short walk right after practice. I could have one of Alyssa\u00e2\u0080\u0099s roommates sneak you in when we\u00e2\u0080\u0099re gone"
+    },
+    {
+      "sender_name": "Lex",
+      "timestamp_ms": 1635997495795,
+      "content": "okay!! and i\u00e2\u0080\u0099m thinking maybe friday, i\u00e2\u0080\u0099m not exactly sure what my next few days look like but i\u00e2\u0080\u0099ll let you know"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1635995752692,
+      "content": "Hey! Thursdays and Friday\u00e2\u0080\u0099s are both of our easy days. We\u00e2\u0080\u0099re done for the day after track around 4ish. How soon would you want to come up?"
+    },
+    {
+      "sender_name": "Lex",
+      "timestamp_ms": 1635992209330,
+      "content": "hey there!! i just flew in tonight, i was wondering what y\u00e2\u0080\u0099all\u00e2\u0080\u0099s schedule looks like normally? i want to coordinate something to surprise lyss!"
+    },
+    {
+      "sender_name": "Lex",
+      "timestamp_ms": 1632663816637,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1632611197449,
+      "content": "That sounds great! I\u00e2\u0080\u0099m excited",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Lex"
+        }
+      ]
+    },
+    {
+      "sender_name": "Lex",
+      "timestamp_ms": 1632610885926,
+      "content": "Okay! I\u00e2\u0080\u0099m not sure her normal schedule/ what it\u00e2\u0080\u0099ll look like when I get home but I\u00e2\u0080\u0099ll let you know when it gets closer (:"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1632610842819,
+      "content": "Of course! Just let me know what you need me to do!"
+    },
+    {
+      "sender_name": "Lex",
+      "timestamp_ms": 1632594652111,
+      "content": "Hey! I know Alyssa has probably told you who I am but I am like her older sis that worked at shady with her. Basically I\u00e2\u0080\u0099m coming home in a month ish (Lyss doesn\u00e2\u0080\u0099t know this) and I was hoping you\u00e2\u0080\u0099d be willing to help me surprise her!!"
+    }
+  ],
+  "title": "Lex",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/lex_280485723916511",
+  "magic_words": [
+    
+  ]
+}

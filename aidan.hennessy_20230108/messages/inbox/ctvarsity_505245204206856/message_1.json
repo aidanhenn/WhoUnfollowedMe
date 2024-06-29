@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "CT Varsity"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CT Varsity",
+      "timestamp_ms": 1572704509805,
+      "content": "This is you scoring this correct?"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1572671537956,
+      "content": "78th minute for Granby\u00e2\u0080\u0099s 3-2 win over Somers"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1572671496205,
+      "videos": [
+        {
+          "uri": "messages/inbox/ctvarsity_505245204206856/videos/74794659_3501967369815135_178966414433028392_n_1629427497229203.mp4",
+          "creation_timestamp": 1603774046
+        }
+      ]
+    }
+  ],
+  "title": "CT Varsity",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ctvarsity_505245204206856",
+  "magic_words": [
+    
+  ]
+}

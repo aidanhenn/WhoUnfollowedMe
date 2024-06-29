@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1603237278973,
+      "content": "Hey! My name is Katrin! I'm 20, click 'Learn More' in my post to find me! \u00f0\u009f\u0092\u008b\u00f0\u009f\u0092\u008b\u00f0\u009f\u0092\u008b"
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1603237278973,
+      "share": {
+        "link": "https://www.instagram.com/p/CGRR9Bqjsal/?feed_type=reshare_chaining",
+        "share_text": "Hello! I am Katrin! Click 'Learn More' in my post to find me!"
+      }
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_537575414297235",
+  "magic_words": [
+    
+  ]
+}

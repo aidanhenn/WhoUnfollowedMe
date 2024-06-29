@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Carly Alston"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carly Alston",
+      "timestamp_ms": 1651518928226,
+      "share": {
+        "link": "https://www.instagram.com/p/CdD1dquOzXGsfZ24eCmV0xm4wiK5kWAeSolfP00/?feed_type=reshare_chaining&carousel_share_child_media_id=2829340126121506246_225556277",
+        "share_text": "Crazy weekend\u00e2\u0080\u00a6swipe to see @swaelee wishing me a happy birthday. Swipe again to see the greatest moment of my track career \u00f0\u009f\u00a4\u00aa",
+        "original_content_owner": "carly_rose_alston"
+      }
+    }
+  ],
+  "title": "Carly Alston",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/carlyalston_859025528826483",
+  "magic_words": [
+    
+  ]
+}

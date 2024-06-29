@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Elias Broschard \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0094\u00a5"
+    },
+    {
+      "name": "reannehall"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Nicole Alcantara"
+    },
+    {
+      "name": "Rafa\u00c5\u0082 Lessnau"
+    },
+    {
+      "name": "clairebear"
+    },
+    {
+      "name": "perb_perb"
+    },
+    {
+      "name": "nils"
+    },
+    {
+      "name": "G\u00c3\u00bclbahar Bing\u00c3\u00b6l"
+    },
+    {
+      "name": "Jelena Blas\u00cc\u008ckic\u00cc\u0081"
+    },
+    {
+      "name": "mara.vd.weetering"
+    },
+    {
+      "name": "Viren Parmar"
+    },
+    {
+      "name": "Aidan Hennessy"
+    },
+    {
+      "name": "Michelly Santiago"
+    },
+    {
+      "name": "Instagram User"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1613517169230,
+      "content": "https://bnc.lt/ARMJymKOVdb",
+      "share": {
+        "link": "https://bnc.lt/ARMJymKOVdb"
+      }
+    }
+  ],
+  "title": "Elias Broschard \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0094\u00a5, reannehall, Instagram User and 11 others",
+  "is_still_participant": true,
+  "thread_type": "PendingGroup",
+  "thread_path": "message_requests/eliasbroschardreannehallinstagramuserand11others_466174984565333",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "neville221"
+    },
+    {
+      "name": "Lisa Rhorer"
+    },
+    {
+      "name": "Ricardo J. Melendez"
+    },
+    {
+      "name": "Caleb LeBeau"
+    },
+    {
+      "name": "Aidan Hennessy"
+    },
+    {
+      "name": "Instagram User"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1587087508173,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://evsssee.site/DzJf94L2",
+        "share_text": "18+"
+      }
+    }
+  ],
+  "title": "neville221, Lisa Rhorer, Ricardo J. Melendez and 2 others",
+  "is_still_participant": true,
+  "thread_type": "PendingGroup",
+  "thread_path": "message_requests/neville221lisarhorerricardojmelendezand2others_226277615356584",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

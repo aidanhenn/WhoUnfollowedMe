@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Alex Becker"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1574614322445,
+      "content": "Aidanhennessy3"
+    },
+    {
+      "sender_name": "Alex Becker",
+      "timestamp_ms": 1574612691548,
+      "content": "What\u00e2\u0080\u0099s ur snap"
+    },
+    {
+      "sender_name": "Alex Becker",
+      "timestamp_ms": 1574557015232,
+      "content": "Yeeee"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1574553657812,
+      "content": "Oh gotcha"
+    },
+    {
+      "sender_name": "Alex Becker",
+      "timestamp_ms": 1574553585677,
+      "content": "I can\u00e2\u0080\u0099t I\u00e2\u0080\u0099m coming back from NYC"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1574553562206,
+      "content": "We could go before 4 too"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1574553537186,
+      "content": "I\u00e2\u0080\u0099m going to my moms Monday and I don\u00e2\u0080\u0099t have any stuff there"
+    },
+    {
+      "sender_name": "Alex Becker",
+      "timestamp_ms": 1574553362280,
+      "content": "We have Monday too im pretty sure"
+    },
+    {
+      "sender_name": "Alex Becker",
+      "timestamp_ms": 1574553354363,
+      "content": "I gotta game at 4 so that will probably last till 6"
+    },
+    {
+      "sender_name": "Alex Becker",
+      "timestamp_ms": 1574553345606,
+      "content": "After 6 tmrw"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1574552637127,
+      "content": "What time do u wanna work on the catapult?"
+    }
+  ],
+  "title": "Alex Becker",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/alexbecker_566528844739609",
+  "magic_words": [
+    
+  ]
+}

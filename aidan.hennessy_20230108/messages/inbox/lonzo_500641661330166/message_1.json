@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Lonzo"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lonzo",
+      "timestamp_ms": 1615235998155
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1597879856161,
+      "content": "Nah but I saw him when I was moving my stuff in... seems pretty nice"
+    },
+    {
+      "sender_name": "Lonzo",
+      "timestamp_ms": 1597862929321,
+      "content": "have you spoke to the dude i\u00e2\u0080\u0099m rooming wit ?"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1597859340567,
+      "content": "Granby"
+    },
+    {
+      "sender_name": "Lonzo",
+      "timestamp_ms": 1597849461979,
+      "content": "hbu"
+    },
+    {
+      "sender_name": "Lonzo",
+      "timestamp_ms": 1597849459397,
+      "content": "i\u00e2\u0080\u0099m from manchester"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1597847129929,
+      "content": "Where u from?"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1597847125346,
+      "content": "Bettt what up?"
+    },
+    {
+      "sender_name": "Lonzo",
+      "timestamp_ms": 1597803851007,
+      "content": "yooo i think we are roommates"
+    }
+  ],
+  "title": "Lonzo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/lonzo_500641661330166",
+  "magic_words": [
+    
+  ]
+}

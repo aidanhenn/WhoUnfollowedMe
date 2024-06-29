@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Ben Morales"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ben Morales",
+      "timestamp_ms": 1667170235445,
+      "content": "Ben sent an attachment."
+    }
+  ],
+  "title": "Ben Morales",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/benmorales_809343697128451",
+  "magic_words": [
+    
+  ]
+}

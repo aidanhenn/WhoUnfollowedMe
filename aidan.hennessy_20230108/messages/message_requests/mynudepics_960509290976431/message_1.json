@@ -1,0 +1,130 @@
+{
+  "participants": [
+    {
+      "name": "Uta Melle"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Rickey Rozay Floyd"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "V"
+    },
+    {
+      "name": "Roxane C-Duv"
+    },
+    {
+      "name": "Armed & Smart llc"
+    },
+    {
+      "name": "Milliy Assefa"
+    },
+    {
+      "name": "Ashvinda Ranasinghe"
+    },
+    {
+      "name": "chintyahetsya_"
+    },
+    {
+      "name": "Spectrum"
+    },
+    {
+      "name": "Ghalia Nil Abdullah"
+    },
+    {
+      "name": "Lizbeth Acosta"
+    },
+    {
+      "name": "Kimberley Barbagallo"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Christiane Kaade",
+      "timestamp_ms": 1572121642567,
+      "content": "Christiane Kaade left the group.",
+      "users": [
+        {
+          "name": "Christiane Kaade"
+        }
+      ]
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1572121162047,
+      "content": "A contact added you and 4 others to the group.",
+      "users": [
+        {
+          "name": "V"
+        },
+        {
+          "name": "Armed & Smart llc"
+        },
+        {
+          "name": "Spectrum"
+        },
+        {
+          "name": "Ghalia Nil Abdullah"
+        },
+        {
+          "name": "Aidan Hennessy"
+        }
+      ]
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1572121160036,
+      "content": "A contact named the group mynude\u00f0\u009f\u0094\u009epics."
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1572121159156,
+      "content": "A contact added Christiane Kaade and 4 others to the group.",
+      "users": [
+        {
+          "name": "Christiane Kaade"
+        },
+        {
+          "name": "Uta Melle"
+        },
+        {
+          "name": "Rickey Rozay Floyd"
+        },
+        {
+          "name": "Roxane C-Duv"
+        },
+        {
+          "name": "Lizbeth Acosta"
+        }
+      ]
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1572121156672,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://bit.do/faovQ#904986",
+        "share_text": "Click on the link above\u00f0\u009f\u0091\u0086\u00f0\u009f\u0091\u0086\u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+      }
+    }
+  ],
+  "title": "mynude\u00f0\u009f\u0094\u009epics",
+  "is_still_participant": true,
+  "thread_type": "PendingGroup",
+  "thread_path": "message_requests/mynudepics_960509290976431",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

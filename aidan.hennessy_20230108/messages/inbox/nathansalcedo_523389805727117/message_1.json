@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Nathan Salcedo"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nathan Salcedo",
+      "timestamp_ms": 1615230503282,
+      "content": "Ur good"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1615229022842,
+      "content": "I haven\u00e2\u0080\u0099t finished yet my bad"
+    },
+    {
+      "sender_name": "Nathan Salcedo",
+      "timestamp_ms": 1615217792623,
+      "content": "Where did you find the Ciatation for the other article? Not the wired one"
+    },
+    {
+      "sender_name": "Nathan Salcedo",
+      "timestamp_ms": 1611803624026,
+      "content": "Right on I\u00e2\u0080\u0099ll email him"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1611801984977,
+      "content": "Sure, I picked group B"
+    },
+    {
+      "sender_name": "Nathan Salcedo",
+      "timestamp_ms": 1611783609643,
+      "content": "Hey we were in college writing last semester and you\u00e2\u0080\u0099re the only person I know in this ecology class. Would you want to be in the same discussion group?"
+    }
+  ],
+  "title": "Nathan Salcedo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/nathansalcedo_523389805727117",
+  "magic_words": [
+    
+  ]
+}

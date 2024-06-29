@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "sfg200"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Treino feminino"
+    },
+    {
+      "name": "salim"
+    },
+    {
+      "name": "Aidan Hennessy"
+    },
+    {
+      "name": "Instagram User"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1589234762178,
+      "content": "Completely free! Up to 30'000 followers and 5000 likes to all your posts!\nFor details go to our main page \u00e2\u009e\u00a1\u00ef\u00b8\u008f @instaprometer_org"
+    }
+  ],
+  "title": "FOLLOWERS & LIKES FOR FREE\u00f0\u009f\u0094\u00a5\u00f0\u009f\u0094\u00a5\u00f0\u009f\u0094\u00a5",
+  "is_still_participant": true,
+  "thread_type": "PendingGroup",
+  "thread_path": "message_requests/followerslikesforfree_165087881647842",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "participants": [
+    {
+      "name": "Martina Mathea Olsen"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Martina Mathea Olsen",
+      "timestamp_ms": 1529118862734,
+      "content": "Goodnight"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1529116982020,
+      "content": "Goodnight"
+    },
+    {
+      "sender_name": "Martina Mathea Olsen",
+      "timestamp_ms": 1529115394444,
+      "content": "Jkk i wish"
+    },
+    {
+      "sender_name": "Martina Mathea Olsen",
+      "timestamp_ms": 1529115389312,
+      "content": "I\u00e2\u0080\u0099m a pro tennis player"
+    },
+    {
+      "sender_name": "Martina Mathea Olsen",
+      "timestamp_ms": 1529115379322,
+      "content": "Cool I don\u00e2\u0080\u0099t like fortnite tho.."
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1529115303352,
+      "content": "I\u00e2\u0080\u0099m a pro fortnite player"
+    },
+    {
+      "sender_name": "Martina Mathea Olsen",
+      "timestamp_ms": 1529114971802,
+      "content": "Ofccc"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1529114947585,
+      "content": "Nice I see you know our culture then"
+    },
+    {
+      "sender_name": "Martina Mathea Olsen",
+      "timestamp_ms": 1529114805617,
+      "content": "Gucci gang"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1529114729201,
+      "content": "Do you know lil pump"
+    },
+    {
+      "sender_name": "Martina Mathea Olsen",
+      "timestamp_ms": 1529114389885,
+      "content": "He played for the team where i live, so we talked before he got famous"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1529114314189,
+      "content": "Really how"
+    },
+    {
+      "sender_name": "Martina Mathea Olsen",
+      "timestamp_ms": 1529114238812,
+      "content": "I\u00e2\u0080\u0099ve met him"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1529114166044,
+      "content": "odegaard er en god fotballspiller"
+    },
+    {
+      "sender_name": "Martina Mathea Olsen",
+      "timestamp_ms": 1529113817477,
+      "content": "Jeg er enig"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1529113729600,
+      "content": "Norge er kult"
+    },
+    {
+      "sender_name": "Martina Mathea Olsen",
+      "timestamp_ms": 1529113484041,
+      "content": "Vi kan begge norsk da, s\u00c3\u00a5 det g\u00c3\u00a5r bra"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1529113388007,
+      "content": "jeg kan heller ikke"
+    },
+    {
+      "sender_name": "Martina Mathea Olsen",
+      "timestamp_ms": 1529113249242,
+      "content": "Nei e kan ikke engelsk"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1529113220925,
+      "content": "Do you speak English"
+    },
+    {
+      "sender_name": "Martina Mathea Olsen",
+      "timestamp_ms": 1529112736355,
+      "content": "Hi"
+    }
+  ],
+  "title": "Martina Mathea Olsen",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/martinamatheaolsen_528172905238851",
+  "magic_words": [
+    
+  ]
+}

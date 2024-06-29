@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Ben Morales"
+    },
+    {
+      "name": "Jacob"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ben Morales",
+      "timestamp_ms": 1644363283340,
+      "content": "My epic is Benmor17"
+    }
+  ],
+  "title": "Ben Morales and Jacob",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/benmoralesandjacob_5138155376236540",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

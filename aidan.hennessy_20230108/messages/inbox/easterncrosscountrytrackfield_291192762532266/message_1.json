@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Eastern Cross Country | Track & Field"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eastern Cross Country | Track & Field",
+      "timestamp_ms": 1669997378626,
+      "content": "Eastern shared a story."
+    }
+  ],
+  "title": "Eastern Cross Country | Track & Field",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/easterncrosscountrytrackfield_291192762532266",
+  "magic_words": [
+    
+  ]
+}

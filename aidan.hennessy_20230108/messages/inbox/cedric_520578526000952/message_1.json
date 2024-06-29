@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Cedric"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cedric",
+      "timestamp_ms": 1609561541995,
+      "content": "Yes! Let\u00e2\u0080\u0099s do it!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Aidan Hennessy"
+        }
+      ]
+    }
+  ],
+  "title": "Cedric",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/cedric_520578526000952",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Erica Stroud"
+    },
+    {
+      "name": "tony"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Carlos Eduardo Ben\u00c3\u00adtez D\u00c3\u00adaz"
+    },
+    {
+      "name": "Andrea Carella"
+    },
+    {
+      "name": "\u00c9\u0090\u00c4\u00b1\u00cc\u00a3\u00d7\u009fn\u00c4\u00b1\u00cc\u00a3\u00ea\u0093\u00a8\u00f0\u009f\u0091\u00bd"
+    },
+    {
+      "name": "Simone Carraro"
+    },
+    {
+      "name": "Jp Blandon"
+    },
+    {
+      "name": "O-guiih"
+    },
+    {
+      "name": "Craig"
+    },
+    {
+      "name": "Ryan Sheldon"
+    },
+    {
+      "name": "Aidan Hennessy"
+    },
+    {
+      "name": "Moyeto Alvarez"
+    },
+    {
+      "name": "Instagram User"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ali Anafarta",
+      "timestamp_ms": 1615854968502,
+      "content": "Ali Anafarta left the group.",
+      "users": [
+        {
+          "name": "Ali Anafarta"
+        }
+      ]
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1614505042283,
+      "content": "https://bnc.lt/cTvr4YBVeeb",
+      "share": {
+        "link": "https://bnc.lt/cTvr4YBVeeb"
+      }
+    }
+  ],
+  "title": "Erica Stroud, tony, Instagram User and 10 others",
+  "is_still_participant": true,
+  "thread_type": "PendingGroup",
+  "thread_path": "message_requests/ericastroudtonyinstagramuserand10others_780917586170208",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

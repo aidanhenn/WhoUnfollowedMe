@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Ryan Escoda"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1649198634367,
+      "share": {
+        "link": "https://instagram.com/stories/aidan.hennessy/2810004237921407857"
+      }
+    }
+  ],
+  "title": "Ryan Escoda",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ryanescoda_855399895857558",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1642597223867,
+      "content": "you could be a hunter                  \nBit Bandits are on the loose! we're all gathering on their discord (check profile above) forming up hunting parties to try to catch them... we want to see you there!                          \n                        \nIf you have questions or want to join the whitelist please DM (the profile above or their main account)!               \n               \nRemember, we're all gathering on their discord!"
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1642597223867,
+      "share": {
+        "link": "https://www.instagram.com/_u/bitbandits.launch",
+        "profile_share_username": "bitbandits.launch",
+        "profile_share_name": "Bit Bandits Launch"
+      }
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_732762011443582",
+  "magic_words": [
+    
+  ]
+}

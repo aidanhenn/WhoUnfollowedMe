@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Stefan Duvivier | Performance Coach"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stefan Duvivier | Performance Coach",
+      "timestamp_ms": 1644162574676,
+      "content": "You have any pain/tightness you working through?"
+    },
+    {
+      "sender_name": "Stefan Duvivier | Performance Coach",
+      "timestamp_ms": 1644162539087,
+      "content": "The high jump technique is important but I think it\u00e2\u0080\u0099s secondary to your movement quality and alignment from a more general standpoint"
+    },
+    {
+      "sender_name": "Stefan Duvivier | Performance Coach",
+      "timestamp_ms": 1644162506643,
+      "content": "I was stuck at that 1.95 mark until I really honed in on my movement mechanics"
+    },
+    {
+      "sender_name": "Stefan Duvivier | Performance Coach",
+      "timestamp_ms": 1644162475571,
+      "content": "That\u00e2\u0080\u0099s amazing Aidan! Congrats on the conference win \u00f0\u009f\u0092\u00aa\u00f0\u009f\u008f\u00be I went to tufts university if you know it"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1644162273078,
+      "content": "What\u00e2\u0080\u0099s up Stefan! We actually have a pretty decent jumps program for a d3. I\u00e2\u0080\u0099m a 1.95m high jumper and almost a 13m triple jumper. My twin brother is a 6.6m long jumper and a 13m triple jumper. We won our first conference in 7 years last year. I\u00e2\u0080\u0099ve been struggling to get my high jump technique down recently and I know I can be a 2m+ jumper if I fix a few things but idk what to focus on."
+    },
+    {
+      "sender_name": "Stefan Duvivier | Performance Coach",
+      "timestamp_ms": 1644157239171,
+      "content": "Hey dude. How how\u00e2\u0080\u0099s the track program at ECSU?"
+    }
+  ],
+  "title": "Stefan Duvivier | Performance Coach",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/stefanduvivierperformancecoach_803560461043333",
+  "magic_words": [
+    
+  ]
+}

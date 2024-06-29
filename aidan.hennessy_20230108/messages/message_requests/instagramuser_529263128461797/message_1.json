@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1598516842246,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://qwertypoiuy9.website/QphL6Dfk?s3=173",
+        "share_text": "SuicideGirls is a global community - celebrating alternative beauty since 2001 and home to the freaks, geeks and nerds of this world. Join Us Today!"
+      }
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_529263128461797",
+  "magic_words": [
+    
+  ]
+}

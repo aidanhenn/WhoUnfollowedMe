@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1606073696078,
+      "share": {
+        "link": "https://www.instagram.com/_u/officiallovebracelets",
+        "profile_share_username": "officiallovebracelets",
+        "profile_share_name": "The Love Bracelet"
+      }
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1606073696078,
+      "content": "Hey! I am from The Love Bracelet co! We are looking for brand ambassadors and models, please send a message to our main account @officiallovebracelets ASAP! We love your account."
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_535709841150459",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Mark Khadour"
+    },
+    {
+      "name": "Tudz"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Rashaad"
+    },
+    {
+      "name": "Aidan Hennessy"
+    },
+    {
+      "name": "Instagram User"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1593356014985,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://primegirls45.website/2805"
+      }
+    }
+  ],
+  "title": "Mark Khadour, Tudz, Instagram User and 2 others",
+  "is_still_participant": true,
+  "thread_type": "PendingGroup",
+  "thread_path": "message_requests/markkhadourtudzinstagramuserand2others_1366890100169083",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1574476510602,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://xs51.site/v6fvF4ZS",
+        "share_text": "Visit the page to see this album : Wanna more? Just click ;)"
+      }
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_316171016512779",
+  "magic_words": [
+    
+  ]
+}

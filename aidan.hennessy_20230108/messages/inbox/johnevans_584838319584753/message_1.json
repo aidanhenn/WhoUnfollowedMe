@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "John Evans"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "John Evans",
+      "timestamp_ms": 1548091594622,
+      "content": "Sorry dog I reserve that for my clients"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1548088191168,
+      "content": "Do you mind giving me a few pointers on how I can fix my form, thanks"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1548088182819,
+      "videos": [
+        {
+          "uri": "messages/inbox/johnevans_584838319584753/videos/50833465_274068433289119_5792513123852222464_n_3022490227854790.mp4",
+          "creation_timestamp": 1603345647
+        }
+      ]
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1536254159155,
+      "content": "Ok thanks"
+    },
+    {
+      "sender_name": "John Evans",
+      "timestamp_ms": 1536253742804,
+      "content": "I currently just do personal online training for 80 a month. Sorry mannn"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1536253364750,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1536253364198,
+      "content": "Does your jump program cost money?"
+    }
+  ],
+  "title": "John Evans",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/johnevans_584838319584753",
+  "magic_words": [
+    
+  ]
+}

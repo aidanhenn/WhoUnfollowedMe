@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Jacob"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1518286736515,
+      "content": "I got you"
+    },
+    {
+      "sender_name": "Jacob",
+      "timestamp_ms": 1518286382981,
+      "content": "Don\u00e2\u0080\u0099t forget the shorts"
+    },
+    {
+      "sender_name": "Jacob",
+      "timestamp_ms": 1518278872426,
+      "content": "Alright dope. Don\u00e2\u0080\u0099t forget plz"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1518278855801,
+      "content": "I don\u00e2\u0080\u0099t have mine but Conor can give you his"
+    },
+    {
+      "sender_name": "Jacob",
+      "timestamp_ms": 1518278826306,
+      "content": "Yeah but I don\u00e2\u0080\u0099t have my shorts so I\u00e2\u0080\u0099m gonna need to borrow urs for the 4x2"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1518278810078,
+      "content": "Yea are you?"
+    },
+    {
+      "sender_name": "Jacob",
+      "timestamp_ms": 1518278770949,
+      "content": "Ur going to the meet today right"
+    }
+  ],
+  "title": "Jacob",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/jacob_664522041616578",
+  "magic_words": [
+    
+  ]
+}

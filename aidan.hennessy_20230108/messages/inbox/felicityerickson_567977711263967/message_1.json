@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Felicity Erickson"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Felicity Erickson",
+      "timestamp_ms": 1607614033051,
+      "content": "How old is your sister"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1607464703137,
+      "content": "I already have a job at UPS but my sisters looking for a job"
+    },
+    {
+      "sender_name": "Felicity Erickson",
+      "timestamp_ms": 1607441014848,
+      "content": "Hi Aidan I know this is super random lmao but I work for a small business in Farmington. Because of COVID our team is working entirely remotely. The starting pay for the job is 17$ and the schedules are flexible to work around classes or other commitments. We have openings and I told my boss I would help spread the word. Are you or anyone you know currently looking for work over winter break?"
+    }
+  ],
+  "title": "Felicity Erickson",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/felicityerickson_567977711263967",
+  "magic_words": [
+    
+  ]
+}

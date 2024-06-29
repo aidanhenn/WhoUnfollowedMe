@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Maria Nolan"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1583512234602,
+      "share": {
+        "link": "https://instagram.com/stories/aidan.hennessy/2258986801103780494"
+      }
+    },
+    {
+      "sender_name": "Maria Nolan",
+      "timestamp_ms": 1583500452946
+    }
+  ],
+  "title": "Maria Nolan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/marianolan_591121512288490",
+  "magic_words": [
+    
+  ]
+}

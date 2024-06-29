@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Rowan Heinze"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rowan Heinze",
+      "timestamp_ms": 1572725824743,
+      "content": "\u00f0\u009f\u0094\u00a5"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1572705833446,
+      "content": "Haha thanks and I did"
+    },
+    {
+      "sender_name": "Rowan Heinze",
+      "timestamp_ms": 1572692327917,
+      "content": "You should sent it to ct varsity"
+    },
+    {
+      "sender_name": "Rowan Heinze",
+      "timestamp_ms": 1572692316482,
+      "content": "Sick goal yesterday!"
+    },
+    {
+      "sender_name": "Rowan Heinze",
+      "timestamp_ms": 1534468683553,
+      "content": "Bc there\u00e2\u0080\u0099s only one question mark"
+    },
+    {
+      "sender_name": "Rowan Heinze",
+      "timestamp_ms": 1534468674147,
+      "content": "No, it\u00e2\u0080\u0099s a yes or no question"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1534468297966,
+      "content": "2"
+    }
+  ],
+  "title": "Rowan Heinze",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/rowanheinze_519720386082738",
+  "magic_words": [
+    
+  ]
+}

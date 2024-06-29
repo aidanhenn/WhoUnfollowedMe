@@ -1,0 +1,575 @@
+{
+  "participants": [
+    {
+      "name": "Elsie Phillips"
+    },
+    {
+      "name": "Maria Nolan"
+    },
+    {
+      "name": "Rach"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Kenya M."
+    },
+    {
+      "name": "Anna-Marie\u00f0\u009f\u00a4\u00aa"
+    },
+    {
+      "name": "ashley casavant"
+    },
+    {
+      "name": "ben gottsche"
+    },
+    {
+      "name": "Austin Wickham"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "joshua st. pierre"
+    },
+    {
+      "name": "claire.madsen"
+    },
+    {
+      "name": "Maddy Russell"
+    },
+    {
+      "name": "Conor Hennessy"
+    },
+    {
+      "name": "kaite"
+    },
+    {
+      "name": "Maeve"
+    },
+    {
+      "name": "Kelly Severance <3"
+    },
+    {
+      "name": "sam attianese"
+    },
+    {
+      "name": "Kevin Jones"
+    },
+    {
+      "name": "The Dream Cadets"
+    },
+    {
+      "name": "Adam Wilson"
+    },
+    {
+      "name": "Natalie Scanlon"
+    },
+    {
+      "name": "Devyn"
+    },
+    {
+      "name": "Paul Auckenthaler"
+    },
+    {
+      "name": "Matthew Ferro"
+    },
+    {
+      "name": "Tessa McMillan"
+    },
+    {
+      "name": "Nina DeGagne"
+    },
+    {
+      "name": "Emily Miller"
+    },
+    {
+      "name": "Aidan Hennessy"
+    },
+    {
+      "name": "emma"
+    },
+    {
+      "name": "Rowan Heinze"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Paul Auckenthaler",
+      "timestamp_ms": 1585527703107,
+      "content": "_aucki_ removed Max Hollister from the group.",
+      "users": [
+        {
+          "name": "Max Hollister"
+        }
+      ]
+    },
+    {
+      "sender_name": "The Dream Cadets",
+      "timestamp_ms": 1584806923553,
+      "content": "Aww Paul I didn\u00e2\u0080\u0099t see this until now, it was great being with you in school. Come back to the US when you can!"
+    },
+    {
+      "sender_name": "Kenya M.",
+      "timestamp_ms": 1584716654208,
+      "content": "Paul I'll miss you! Safe trip home!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "Paul Auckenthaler",
+      "timestamp_ms": 1584680324353,
+      "content": "I really appreciate that and hope too see many of you tomorrow"
+    },
+    {
+      "sender_name": "Paul Auckenthaler",
+      "timestamp_ms": 1584672179571,
+      "content": "_aucki_ liked a message"
+    },
+    {
+      "sender_name": "Paul Auckenthaler",
+      "timestamp_ms": 1584672133349,
+      "content": "_aucki_ liked a message"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1584667811495,
+      "content": "Haha true",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "Paul Auckenthaler",
+      "timestamp_ms": 1584667702144,
+      "content": "@aidan.hennessy At least we don\u00e2\u0080\u0099t have to worry about the lady in Simsbury anymore"
+    },
+    {
+      "sender_name": "joshua st. pierre",
+      "timestamp_ms": 1584667656242,
+      "content": "i\u00e2\u0080\u0099m so sorry paul!!!! you\u00e2\u0080\u0099ll be missed sm! i\u00e2\u0080\u0099ll try my hardest to make it ik we all will",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "Austin Wickham",
+      "timestamp_ms": 1584667578400,
+      "content": "Damn that would be fun",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "Paul Auckenthaler",
+      "timestamp_ms": 1584667546828,
+      "content": "My host parents told me I can invite everyone I want, so would be nice"
+    },
+    {
+      "sender_name": "Paul Auckenthaler",
+      "timestamp_ms": 1584667470146,
+      "content": "@austinwickham5 not really, I mean to see the shore would be nice, or just driving around, but I\u00e2\u0080\u0099d also happy just to see some of you guys again"
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1584667430756,
+      "content": "sorry paul i hope u get home safe and stay healthy!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1584667290542,
+      "content": "I\u00e2\u0080\u0099ll miss you Paul :(",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "Kevin Jones",
+      "timestamp_ms": 1584667268446,
+      "content": "Sorry to hear Paul, we\u00e2\u0080\u0099ll miss you! \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "Adam Wilson",
+      "timestamp_ms": 1584667114211,
+      "content": "Be safe Paul, I\u00e2\u0080\u0099ll never forget your Lit presentation!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "ashley casavant"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "sam attianese"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "kaite"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "emma"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Kelly Severance <3"
+        }
+      ]
+    },
+    {
+      "sender_name": "Nina DeGagne",
+      "timestamp_ms": 1584667086968,
+      "content": "So sorry Paul I hope you get home safe and let us know when you get home :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "Austin Wickham",
+      "timestamp_ms": 1584667076124,
+      "content": "Is there anything specific you wanna do before you leave?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "emma",
+      "timestamp_ms": 1584667064765,
+      "content": "i\u00e2\u0080\u0099m sorry paul, safe travels :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "claire.madsen",
+      "timestamp_ms": 1584667060655,
+      "content": "Sorry Paul! Have a safe trip home :(",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "Maddy Russell",
+      "timestamp_ms": 1584667054211,
+      "content": "So sorry to hear that Paul, unfortunately Im kind of in lock down at my house so I won\u00e2\u0080\u0099t be able to visit, but we\u00e2\u0080\u0099ll miss you!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "ashley casavant",
+      "timestamp_ms": 1584667053272,
+      "content": "I\u00e2\u0080\u0099m sorry, we will miss you a lot!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "kaite",
+      "timestamp_ms": 1584667052370,
+      "content": "so sorry your trip got cut short!! but I hope you have a safe trip home and that you enjoyed your time in Granby!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "Rowan Heinze",
+      "timestamp_ms": 1584667051347,
+      "content": "That sucks Paul, we will miss you!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "Anna-Marie\u00f0\u009f\u00a4\u00aa",
+      "timestamp_ms": 1584667048485,
+      "content": "Aww I\u00e2\u0080\u0099m sorry Paul!! I\u00e2\u0080\u0099ll miss you coming into math and saying goodmorning!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "Rach",
+      "timestamp_ms": 1584667046781,
+      "content": "Aw we\u00e2\u0080\u0099ll miss you Paul!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "Kelly Severance <3",
+      "timestamp_ms": 1584667034943,
+      "content": "I\u00e2\u0080\u0099m so sorry you have to leave early!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "Maria Nolan",
+      "timestamp_ms": 1584667019323,
+      "content": "You will be missed by the entire track team and we all wish you the best! Don\u00e2\u0080\u0099t hesitate to ever reach out and say hi :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "Elsie Phillips",
+      "timestamp_ms": 1584667019254,
+      "content": "i\u00e2\u0080\u0099m so sorry paul!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1584666999636,
+      "content": "I\u00e2\u0080\u0099ll miss u buddy",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "Austin Wickham",
+      "timestamp_ms": 1584666995523,
+      "content": "You will be greatly missed and we wish you the best of wishes",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "sam attianese",
+      "timestamp_ms": 1584666983352,
+      "content": "Ohh no, I'm so sorry Paul!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "Austin Wickham",
+      "timestamp_ms": 1584666976105,
+      "content": "Damn Paul I\u00e2\u0080\u0099m really sorry dude I wish you could\u00e2\u0080\u0099ve been here with the rest of us",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        }
+      ]
+    },
+    {
+      "sender_name": "Paul Auckenthaler",
+      "timestamp_ms": 1584666862871,
+      "content": "The thing is I\u00e2\u0080\u0099ll be deported this weekend, because all exchange students loose their visas due the coronavirus. We have done everything to prevent that, but it is more or less impossible. I don\u00e2\u0080\u0099t know when exactly, because the Austrian government keeps the exact time of the\u00e2\u0080\u009d evacuation flights for Austrian citizens who have to leave the US\u00e2\u0080\u009d secret until 24 hours before departure. Anyway of course I\u00e2\u0080\u0099m very sad to miss prom, senior outing, graduation and of course all the amazing people here. And I\u00e2\u0080\u0099m sure I forgot to add 90% of the people I wanted to add. But it is what it is. And we have one more day tomorrow. My address is 20 Heather Lane North Granby, I\u00e2\u0080\u0099ll be home almost the whole day and would be happy if some people could come over to see me one more time. I understand it is spontaneous and we live in social distancing, but I would be happy to see some of your guys tomorrow."
+    },
+    {
+      "sender_name": "Paul Auckenthaler",
+      "timestamp_ms": 1584666127692,
+      "content": "You\u00e2\u0080\u0099re faster than I\u00e2\u0080\u0099m in creating a group, it\u00e2\u0080\u0099s kind of hard"
+    },
+    {
+      "sender_name": "Austin Wickham",
+      "timestamp_ms": 1584666095871,
+      "share": {
+        "link": "https://media2.giphy.com/media/v1.Y2lkPTQxOWYwNjU3M2MzZDJjOTcwMzk5MWU2NTljM2ViYzFiZWM2MmRhZjBmYzhlODRhOQ/LpvPFO7sVpPt2M2ghc/200.gif",
+        "original_content_owner": "lifeisrosier"
+      }
+    },
+    {
+      "sender_name": "joshua st. pierre",
+      "timestamp_ms": 1584666082897,
+      "content": "lmao"
+    },
+    {
+      "sender_name": "Austin Wickham",
+      "timestamp_ms": 1584666074248,
+      "content": "I\u00e2\u0080\u0099m starving"
+    },
+    {
+      "sender_name": "Austin Wickham",
+      "timestamp_ms": 1584666056474,
+      "content": "So are we going to McDonald\u00e2\u0080\u0099s",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "sam attianese"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Maria Nolan"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Paul Auckenthaler"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Rowan Heinze"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "joshua st. pierre"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Instagram User"
+        }
+      ]
+    },
+    {
+      "sender_name": "Paul Auckenthaler",
+      "timestamp_ms": 1584665371025,
+      "content": "_aucki_ added Maddy Russell to the group.",
+      "users": [
+        {
+          "name": "Maddy Russell"
+        }
+      ]
+    },
+    {
+      "sender_name": "Paul Auckenthaler",
+      "timestamp_ms": 1584665344778,
+      "content": "_aucki_ added Natalie Scanlon to the group.",
+      "users": [
+        {
+          "name": "Natalie Scanlon"
+        }
+      ]
+    },
+    {
+      "sender_name": "Paul Auckenthaler",
+      "timestamp_ms": 1584664856698,
+      "content": "_aucki_ added Elsie Phillips to the group.",
+      "users": [
+        {
+          "name": "Elsie Phillips"
+        }
+      ]
+    },
+    {
+      "sender_name": "Paul Auckenthaler",
+      "timestamp_ms": 1584664533732,
+      "content": "_aucki_ added Kenya M. and 2 others to the group.",
+      "users": [
+        {
+          "name": "Kenya M."
+        },
+        {
+          "name": "Kevin Jones"
+        },
+        {
+          "name": "Devyn"
+        }
+      ]
+    },
+    {
+      "sender_name": "Paul Auckenthaler",
+      "timestamp_ms": 1584664442786,
+      "content": "_aucki_ added Max Hollister to the group.",
+      "users": [
+        {
+          "name": "Max Hollister"
+        }
+      ]
+    },
+    {
+      "sender_name": "Paul Auckenthaler",
+      "timestamp_ms": 1584664411766,
+      "content": "_aucki_ removed Megan Wassick from the group.",
+      "users": [
+        {
+          "name": "Megan Wassick"
+        }
+      ]
+    }
+  ],
+  "title": "Elsie Phillips, Maria Nolan, Rach and 27 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/elsiephillipsmarianolanrachand27others_2581523738826895",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

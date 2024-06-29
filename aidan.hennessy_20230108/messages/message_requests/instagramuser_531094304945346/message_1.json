@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1596479667150,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://www.inespaul.com/usa",
+        "share_text": "by \u00d0\u009c\u00d0\u00b8\u00d1\u0085\u00d0\u00b0\u00d0\u00b8\u00d0\u00bb \u00d0\u0093\u00d0\u00be\u00d0\u00b2\u00d0\u00be\u00d1\u0080\u00d0\u00be\u00d0\u00b2"
+      }
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_531094304945346",
+  "magic_words": [
+    
+  ]
+}

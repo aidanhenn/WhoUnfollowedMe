@@ -1,0 +1,70 @@
+{
+  "account_history_logout_history": [
+    {
+      "title": "2019-12-26T16:25:54+00:00",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Cookie Name": {
+          "href": "",
+          "value": "*************************J3W",
+          "timestamp": 0
+        },
+        "IP Address": {
+          "href": "",
+          "value": "2600:8805:cc00:359:cdc7:2af9:a1a7:3f3b",
+          "timestamp": 0
+        },
+        "Language Code": {
+          "href": "",
+          "value": "en",
+          "timestamp": 0
+        },
+        "Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1577377554
+        },
+        "User Agent": {
+          "href": "",
+          "value": "Instagram 123.0.0.24.115 (iPhone7,2; iOS 12_4_4; en_US; en-US; scale=2.00; 750x1334; 188362626) AppleWebKit/420+",
+          "timestamp": 0
+        }
+      }
+    },
+    {
+      "title": "2019-10-14T18:03:32+00:00",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Cookie Name": {
+          "href": "",
+          "value": "*************************9-Z",
+          "timestamp": 0
+        },
+        "IP Address": {
+          "href": "",
+          "value": "32.210.3.122",
+          "timestamp": 0
+        },
+        "Language Code": {
+          "href": "",
+          "value": "en",
+          "timestamp": 0
+        },
+        "Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1571076212
+        },
+        "User Agent": {
+          "href": "",
+          "value": "Instagram 114.0.0.43.120 (iPad5,2; iOS 11_0; en_US; en-US; scale=2.00; 640x960; 176133011) AppleWebKit/420+",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

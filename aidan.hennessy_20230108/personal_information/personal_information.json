@@ -1,0 +1,66 @@
+{
+  "profile_user": [
+    {
+      "title": "User Information",
+      "media_map_data": {
+        "Profile Photo": {
+          "uri": "media/other/297531214_158636766752077_5959970754845006123_n_17945728964021294.jpg",
+          "creation_timestamp": 1659664566,
+          "title": ""
+        }
+      },
+      "string_map_data": {
+        "Email": {
+          "href": "",
+          "value": "aidanhennessy35@gmail.com",
+          "timestamp": 0
+        },
+        "Phone Number": {
+          "href": "",
+          "value": "+18609705480",
+          "timestamp": 0
+        },
+        "Phone Confirmed": {
+          "href": "",
+          "value": "True",
+          "timestamp": 0
+        },
+        "Phone Confirmation Method": {
+          "href": "",
+          "value": "Unknown",
+          "timestamp": 0
+        },
+        "Username": {
+          "href": "",
+          "value": "aidan.hennessy",
+          "timestamp": 0
+        },
+        "Name": {
+          "href": "",
+          "value": "Aidan Hennessy",
+          "timestamp": 0
+        },
+        "Bio": {
+          "href": "",
+          "value": "ECSU Track and Field \u00e2\u0080\u009824",
+          "timestamp": 0
+        },
+        "Gender": {
+          "href": "",
+          "value": "male",
+          "timestamp": 0
+        },
+        "Date of birth": {
+          "href": "",
+          "value": "2002-10-02",
+          "timestamp": 0
+        },
+        "Private Account": {
+          "href": "",
+          "value": "True",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

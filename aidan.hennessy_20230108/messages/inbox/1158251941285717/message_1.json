@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0087\u00b0\u00f0\u009f\u0087\u00b7\u00f0\u009f\u0087\u00ba\u00f0\u009f\u0087\u00b8"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u0087\u00b0\u00f0\u009f\u0087\u00b7\u00f0\u009f\u0087\u00ba\u00f0\u009f\u0087\u00b8",
+      "timestamp_ms": 1619108273640,
+      "content": "Gotchu"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1619108255874,
+      "content": "I have track practice till 3"
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0087\u00b0\u00f0\u009f\u0087\u00b7\u00f0\u009f\u0087\u00ba\u00f0\u009f\u0087\u00b8",
+      "timestamp_ms": 1619108145344,
+      "content": "Im gonna be there in like an hour"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1619108110540,
+      "content": "For sure"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1619108106546,
+      "content": "Aidanhennessy3"
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0087\u00b0\u00f0\u009f\u0087\u00b7\u00f0\u009f\u0087\u00ba\u00f0\u009f\u0087\u00b8",
+      "timestamp_ms": 1619105183710,
+      "content": "Next time im in mead we should chill",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Aidan Hennessy"
+        }
+      ]
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0087\u00b0\u00f0\u009f\u0087\u00b7\u00f0\u009f\u0087\u00ba\u00f0\u009f\u0087\u00b8",
+      "timestamp_ms": 1619105175639,
+      "content": "Yo whats ur snap bro?"
+    }
+  ],
+  "title": "\u00f0\u009f\u0087\u00b0\u00f0\u009f\u0087\u00b7\u00f0\u009f\u0087\u00ba\u00f0\u009f\u0087\u00b8",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/1158251941285717",
+  "magic_words": [
+    
+  ]
+}

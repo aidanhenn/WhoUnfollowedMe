@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "matthew liguori"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1514566131512,
+      "content": "Idk I\u00e2\u0080\u0099m thinking about it"
+    },
+    {
+      "sender_name": "matthew liguori",
+      "timestamp_ms": 1514566111458,
+      "content": "If your actually gonna play"
+    },
+    {
+      "sender_name": "matthew liguori",
+      "timestamp_ms": 1514566105118,
+      "content": "Still spots"
+    },
+    {
+      "sender_name": "matthew liguori",
+      "timestamp_ms": 1514566102091,
+      "photos": [
+        {
+          "uri": "messages/inbox/matthewliguori_549557133110776/photos/26067241_167832653824517_7511248294274662400_n_2372996466330406.jpg",
+          "creation_timestamp": 1601757313
+        }
+      ]
+    }
+  ],
+  "title": "matthew liguori",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/matthewliguori_549557133110776",
+  "magic_words": [
+    
+  ]
+}

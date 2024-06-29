@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Eastern Class of 2024"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eastern Class of 2024",
+      "timestamp_ms": 1588874202138,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1588868558938,
+      "content": "Aidan Hennessy \nHometown: Granby, CT\nIntended major: Computer science \nSport: Track\nHobbies: Playing soccer, lifting and hanging with friends",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Eastern Class of 2024"
+        }
+      ]
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1588868543599,
+      "photos": [
+        {
+          "uri": "messages/inbox/easternclassof2024_318842492912450/photos/95958548_704748986963891_6822482314516450609_n_185819145868916.jpg",
+          "creation_timestamp": 1588868544
+        }
+      ]
+    }
+  ],
+  "title": "Eastern Class of 2024",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/easternclassof2024_318842492912450",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1593469685960,
+      "share": {
+        "link": "https://www.instagram.com/_u/lancebachmann",
+        "profile_share_username": "lancebachmann",
+        "profile_share_name": "Lance Bachmann"
+      }
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1593469673353,
+      "content": "I just noticed your profile and see you're following a bunch of amazing marketing pages and wanted to introduce you to @Lancebachmann. His page is all about Marketing and I think you'd love it. \n\nHave a great day \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f"
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Pending",
+  "thread_path": "message_requests/instagramuser_523614879026622",
+  "magic_words": [
+    
+  ]
+}

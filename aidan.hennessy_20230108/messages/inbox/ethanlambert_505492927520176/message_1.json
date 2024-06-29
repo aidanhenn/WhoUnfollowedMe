@@ -1,0 +1,100 @@
+{
+  "participants": [
+    {
+      "name": "Ethan Lambert"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1650294162912,
+      "content": "Wtf he\u00e2\u0080\u0099s like 5 ft from the bar"
+    },
+    {
+      "sender_name": "Ethan Lambert",
+      "timestamp_ms": 1650291998341,
+      "content": "He jumps so far away"
+    },
+    {
+      "sender_name": "Ethan Lambert",
+      "timestamp_ms": 1650291998118,
+      "share": {
+        "original_content_owner": "jump.nation"
+      }
+    },
+    {
+      "sender_name": "Ethan Lambert",
+      "timestamp_ms": 1650291746194,
+      "share": {
+        "link": "https://www.instagram.com/p/Ccft8BVLL8c/?feed_type=reshare_chaining&carousel_share_child_media_id=2819173928447819548_3031966047",
+        "share_text": "\u00f0\u009f\u00a4\u00b7\u00f0\u009f\u008f\u00bc\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f",
+        "original_content_owner": "ethan_lambert30"
+      }
+    },
+    {
+      "sender_name": "Ethan Lambert",
+      "timestamp_ms": 1650115591110
+    },
+    {
+      "sender_name": "Ethan Lambert",
+      "timestamp_ms": 1643084142587,
+      "share": {
+        "link": "https://www.instagram.com/p/CZI6hsBsWuQ/?feed_type=reshare_chaining&carousel_share_child_media_id=2758712173477850000_3031966047",
+        "share_text": "Back and better than ever",
+        "original_content_owner": "ethan_lambert30"
+      }
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1640877030215,
+      "content": "Nah"
+    },
+    {
+      "sender_name": "Ethan Lambert",
+      "timestamp_ms": 1640824255961,
+      "content": "Is that actually your school?"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1640821838458,
+      "content": "He got caught lacking"
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1640821833985,
+      "content": "I remember that"
+    },
+    {
+      "sender_name": "Ethan Lambert",
+      "timestamp_ms": 1640805336332,
+      "share": {
+        "link": "https://www.instagram.com/p/CYE2mmOLLBp/?feed_type=reshare_chaining&carousel_share_child_media_id=2739554620239818857_1518408862",
+        "share_text": "Rozzy CHILLLL",
+        "original_content_owner": "shawnsmemesss"
+      }
+    },
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1616784737839,
+      "content": "Lmaooo"
+    },
+    {
+      "sender_name": "Ethan Lambert",
+      "timestamp_ms": 1616784226615
+    },
+    {
+      "sender_name": "Ethan Lambert",
+      "timestamp_ms": 1615239072183
+    }
+  ],
+  "title": "Ethan Lambert",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ethanlambert_505492927520176",
+  "magic_words": [
+    
+  ]
+}

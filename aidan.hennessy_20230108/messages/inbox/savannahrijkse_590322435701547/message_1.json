@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "savannahrijkse"
+    },
+    {
+      "name": "Aidan Hennessy"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aidan Hennessy",
+      "timestamp_ms": 1555024031606,
+      "content": "Ik it\u00e2\u0080\u0099s fine"
+    },
+    {
+      "sender_name": "savannahrijkse",
+      "timestamp_ms": 1555023801974,
+      "content": "Sry I didn\u00e2\u0080\u0099t send that somethings wrong with my account"
+    }
+  ],
+  "title": "savannahrijkse",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/savannahrijkse_590322435701547",
+  "magic_words": [
+    
+  ]
+}
