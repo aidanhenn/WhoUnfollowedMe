@@ -1,0 +1,112 @@
+/* App.css */
+
+/* Reset margin and padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Hero Section Styling */
+.hero {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(
+    to bottom right,
+    #f9e0bb,
+    #f9e9d1
+  ); /* Gradient background */
+  color: #65372a; /* neutral */
+  font-size: 38px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  border-radius: 15px; /* Rounded corners */
+  margin: 0 auto; /* Center the hero section horizontally */
+}
+
+.hero h1 {
+  font-weight: bold; /* Bold text for the main heading */
+  margin-bottom: 20px; /* Spacing below the heading */
+  max-width: 50%;
+}
+
+.hero p {
+  font-size: 18px; /* Subheading or additional text size */
+  margin-top: 10px; /* Spacing above the subheading */
+  color: #935544; /* secondary */
+}
+
+/* Drop Zone Styling */
+.drop-zone {
+  border: 3px dashed #000;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  margin: 50px 0;
+  border-radius: 10px;
+  transition: border-color 0.3s;
+  width: 100%;
+  max-width: 500px;
+}
+
+.drop-zone--over {
+  border-color: #000;
+  border-width: 1px;
+}
+
+.drop-zone__thumb {
+  margin-top: 10px;
+}
+
+.drop-zone__prompt {
+  font-size: 20px;
+  color: #f8f8f8;
+}
+
+.box-label {
+  display: flex;
+  font-size: 30px;
+  font-weight: bold;
+  align-items: center;
+  align-self: center;
+}
+
+.upload-section {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 50px; /* Move the section down from the top */
+}
+
+.upload-box {
+  padding: 10px;
+  max-width: 45%; /* Ensure the boxes do not exceed 45% of the container width */
+  min-width: 300px; /* Ensure a minimum width */
+}
+.btn-medium {
+    padding: 8px 20px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+    background-color: transparent;
+    color: #935544;
+    border: 1px black solid;
+    border-style: dashed;
+    margin: 0 auto; /* Horizontally center the button */
+    display: block; /* Ensure it is a block-level element */
+  }
+  
+.btn-medium:hover {
+  transition: all 0.3s ease-out;
+  background: #65372a;
+  color: #f9e0bb;
+  transition: 250ms;
+}
