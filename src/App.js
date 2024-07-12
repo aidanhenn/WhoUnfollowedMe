@@ -130,7 +130,7 @@ function App() {
 
   return (
     <div className="App">
-      <div className='parent-container'>
+      <div className='parent-container' id="parentContainer">
         <h1 className='instructions'>1. Download Your Instagram Data <br /><br />2. Upload Your Follower and Following lists <br /><br />3. Click the Find Users Button</h1>
       </div>
       <div className="links">

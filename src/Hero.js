@@ -17,7 +17,7 @@ function Hero() {
               FIND WHO HAS UNFOLLOWED YOU ON INSTAGRAM!
             </h1>
             <p>Find out who has unfollowed you on Instagram without having to sign in.</p>
-            <a class="boxes" href="#target">
+            <a class="boxes" href="#parentContainer">
               GET STARTED
             </a>
           </div>
