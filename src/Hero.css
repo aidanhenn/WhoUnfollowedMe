@@ -1,0 +1,67 @@
+/* Hero Section Styling */
+.heroContainer {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #121212;
+  color: #2c2c2c;
+  font-size: 38px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  border-radius: 15px; /* Rounded corners */
+  margin: 0 auto; /* Center the hero section horizontally */
+}
+
+.heroContent {
+  text-align: center;
+  max-width: 50%;
+}
+
+.heroHeader {
+  color: #f9e0bb;
+  font-weight: bold; /* Bold text for the main heading */
+  margin-bottom: 20px; /* Spacing below the heading */
+}
+
+.unfollowImg {
+  filter: invert(100%);
+  margin: 0 20px; /* Spacing between the images and the content */
+}
+
+.heroContainer p {
+  font-size: 20px; /* Subheading or additional text size */
+  margin-top: 10px; /* Spacing above the subheading */
+  color: #65372a; /* secondary */
+  margin-bottom: 30px;
+}
+
+.boxes {
+  position: relative;
+  display: inline-block;
+  margin: 25px;
+  padding: 15px 30px;
+  text-align: center;
+  font-size: 18px;
+  letter-spacing: 1px;
+  text-decoration: none;
+  color: #f9e0bb;
+  background: transparent;
+  cursor: pointer;
+  transition: ease-out 0.5s;
+  border: 2px solid #935544;
+  border-radius: 120px;
+  box-shadow: inset 0 0 0 0 #f9e0bb;
+}
+
+.boxes:hover {
+  color: #f9e0bb;
+  box-shadow: inset 0 -100px 0 0 #935544;
+}
+
+.boxes:active {
+  transform: scale(0.9);
+}

@@ -7,6 +7,7 @@ function App() {
   const [notFollowingBack, setNotFollowingBack] = useState([]);
   const [dropZoneColor1, setDropZoneColor1] = useState('#ffb44d'); // State for drop zone color
   const [dropZoneColor2, setDropZoneColor2] = useState('#ffb44d'); // State for drop zone color
+  const [showUnfollowersHeader, setShowUnfollowersHeader] = useState(false); // State for Unfollowers-header display
 
   const handleFileUpload1 = (file) => {
     const reader = new FileReader();
@@ -79,6 +80,7 @@ function App() {
   const findNotFollowingBack = () => {
     const notFollowing = following.filter((user) => !followers.includes(user));
     setNotFollowingBack(notFollowing);
+    setShowUnfollowersHeader(true); // Show the Unfollowers-header when button is clicked
   };
 
   const DropZone = ({ onFileUploaded, dropZoneColor }) => {
@@ -105,6 +107,7 @@ function App() {
 
     return (
       <div
+        id='target'
         className="drop-zone"
         onDrop={handleFileDrop}
         onDragOver={(e) => e.preventDefault()}
@@ -127,12 +130,12 @@ function App() {
 
   return (
     <div className="App">
+      <div className='parent-container'>
+        <h1 className='instructions'>1. Download Your Instagram Data <br /><br />2. Upload Your Follower and Following lists <br /><br />3. Click the Find Users Button</h1>
+      </div>
       <div className="links">
       </div>
-      <div className="hero">
-        <h1>FIND OUT WHO HAS UNFOLLOWED YOU ON INSTAGRAM!</h1>
-        <p>With the click of a few buttons, find out who has secretly unfollowed you.</p>
-      </div>
+
       <div className="upload-section">
         <div className="upload-box">
           <label className='box-label'>Upload Followers List</label>
@@ -143,9 +146,9 @@ function App() {
           <DropZone onFileUploaded={handleFileUpload2} dropZoneColor={dropZoneColor2} />
         </div>
       </div>
-      <button  onClick={findNotFollowingBack} className='btn-medium'>Find Users</button>
+      <button onClick={findNotFollowingBack} className='btn-medium'>FIND USERS</button>
       <div className="results">
-        <h1>Users Not Following Back:</h1>
+        <h1 className='Unfollowers-header' style={{ display: showUnfollowersHeader ? 'flex' : 'none' }}>Users Not Following You Back:</h1>
         <ul>
           {notFollowingBack.map((user, index) => (
             <li key={index}>{user}</li>
