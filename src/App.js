@@ -4,7 +4,7 @@ import './App.css'; // Import the stylesheet
 function App() {
   const [followers, setFollowers] = useState([]);
   const [following, setFollowing] = useState([]);
-  const [notFollowingBack, setNotFollowingBack] = useState([]);
+  const [notFollowingBack, setNotFollowingBack] = useState([]); 
   const [dropZoneColor1, setDropZoneColor1] = useState('#ffb44d'); // State for drop zone color
   const [dropZoneColor2, setDropZoneColor2] = useState('#ffb44d'); // State for drop zone color
   const [showUnfollowersHeader, setShowUnfollowersHeader] = useState(false); // State for Unfollowers-header display
@@ -138,11 +138,11 @@ function App() {
 
       <div className="upload-section">
         <div className="upload-box">
-          <label className='box-label'>Upload Followers List</label>
+          <h1 className='box-label'>Upload Followers List</h1>
           <DropZone onFileUploaded={handleFileUpload1} dropZoneColor={dropZoneColor1} />
         </div>
         <div className="upload-box">
-          <label className='box-label'>Upload Following List</label>
+          <h1 className='box-label'>Upload Following List</h1>
           <DropZone onFileUploaded={handleFileUpload2} dropZoneColor={dropZoneColor2} />
         </div>
       </div>

@@ -1,3 +1,4 @@
+/* General resets */
 html {
   scroll-behavior: smooth;
 }
@@ -6,26 +7,31 @@ html {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Poppins', sans-serif; /* Consistent modern font */
 }
 
 /* Drop Zone Styling */
 .drop-zone {
   width: 100%;
-  max-width: 300px;
+  min-width: 300px;
   height: 150px;
-  padding: 25px;
+  padding: 2rem;
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
-  font-family: "Quicksand", sans-serif;
-  font-weight: 700;
-  font-size: 20px;
-  cursor: pointer;
+  font-weight: 600;
+  font-size: 1.25rem;
   color: #cccccc;
   border: 4px dashed #009578;
-  border-radius: 10px;
-  transition: border-color 0.3s;
+  border-radius: 0.625rem;
+  transition: border-color 0.3s, background-color 0.3s;
+  background-color: #f5f5f5; /* Light background */
+}
+
+.drop-zone:hover {
+  border-color: #007b63;
+  background-color: #e0f4e9; /* Slightly colored background */
 }
 
 .drop-zone--over {
@@ -36,8 +42,7 @@ html {
   width: 100%;
   height: 100%;
   background-size: cover;
-  position: relative;
-  margin-top: 10px;
+  margin-top: 0.625rem;
 }
 
 .drop-zone__thumb::after {
@@ -46,105 +51,74 @@ html {
   bottom: 0;
   left: 0;
   width: 100%;
-  padding: 5px 0;
+  padding: 0.3125rem;
   color: #fff;
   background: rgba(0, 0, 0, 0.75);
-  font-size: 14px;
+  font-size: 0.875rem;
   text-align: center;
 }
 
 .drop-zone__prompt {
-  font-size: 20px;
+  font-size: 1.25rem;
   color: #f8f8f8;
 }
 
-.box-label {
-  display: flex;
-  font-size: 30px;
-  font-weight: bold;
-  align-items: center;
-  align-self: center;
-  margin-bottom: 30px;
-}
-
+/* Upload Section */
 .upload-section {
   display: flex;
   justify-content: center;
-  align-content: center;
-  margin-top: 50px; /* Move the section down from the top */
-  margin-bottom: 30px;
+  align-items: center;
+  margin: 3rem 0;
+  flex-wrap: wrap;
 }
 
+/* Upload Box */
 .upload-box {
-  padding: 10px;
-  max-width: 45%; /* Ensure the boxes do not exceed 45% of the container width */
-  min-width: 300px; /* Ensure a minimum width */
+  padding: 0.625rem;
+  width: 100%;
+  max-width: 45%;
+  min-width: 300px;
+  margin: 1rem;
+  text-align: center;
+  background-color: #f1f1f1;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
+/* Buttons */
 .btn-medium {
-  padding: 8px 20px;
-  font-size: 25px;
-  font-weight: bold;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  padding: 0.75rem 1.5rem;
+  font-size: 1.2rem;
+  font-weight: 600;
   background-color: transparent;
   color: #935544;
   border: 2px solid #935544;
-  border-radius: 120px;
-  margin: 0 auto; /* Horizontally center the button */
-  display: block;
+  border-radius: 50px;
+  transition: all 0.3s ease-out;
 }
 
 .btn-medium:hover {
-  transition: all 0.3s ease-out;
-  background: #65372a;
+  background-color: #65372a;
   color: #f9e0bb;
 }
-.parent-container {
-  display: flex;
-  justify-content: center; /* Horizontal centering */
-  align-items: center; /* Vertical centering */
-  margin-top: 30px;
-  margin-bottom: 30px;
-}
-.instructions {
-  display: inline-block; /* Inline-block to make the border snug around the content */
-  text-align: left; /* Align text to the left inside the element */
-  margin-top: 30px;
-  margin-bottom: 20px;
-  border: 5px solid #935544;
-  border-radius: 10px;
-  padding: 5px; /* Adjust padding as needed to make it snug */
-  box-shadow: #65372a 2px 2px 0 0;
-}
 
-.Unfollowers-header{
-  display: none; /*set display to flex when clicked*/
-  align-items: center;
-  justify-content: center;
-  color:#65372a;
-  margin-top: 30px;
-  margin-bottom: 30px;
-}
-
+/* Results Styling */
 .results {
-  margin-top: 20px;
+  margin-top: 2rem;
 }
 
 .results ul {
   list-style: none;
   padding: 0;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 1rem;
 }
 
 .results li {
-  background-color: #f9e0bb; /* Light background for better readability */
-  border: 1px solid #935544; /* Border to separate items */
-  border-radius: 5px; /* Rounded corners */
-  padding: 10px; /* Padding for spacing */
-  font-size: 16px; /* Font size for readability */
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
-  color: #65372a; /* Text color */
-  text-align: center; /* Center the text */
+  background-color: #f9e0bb;
+  border: 1px solid #935544;
+  border-radius: 0.3125rem;
+  padding: 0.625rem;
+  text-align: center;
 }
